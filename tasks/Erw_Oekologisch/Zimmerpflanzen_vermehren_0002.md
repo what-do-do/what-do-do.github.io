@@ -10,4 +10,4 @@ Zimmerpflanzen vermehren in 4 Schritten:
 Viele Zimmerpflanzen lassen sich auf diese Weise vermehren. 
 Lies vorher aber noch einmal nach, ob deine Pflanze auch so vermehrt werden kann. Zum Beispiel unter https://www.zimmerpflanzenlexikon.info/.
 
-Falls du nicht weißt, was du dein Namen deiner Pflanze nicht kannst, kannst du dir mit ddie Pflanze mit der App PlantNet ganz einfach bestimmen. 
+Falls du den Namen deiner Pflanze nicht kennst, kannst du sie mit der App PlantNet ganz einfach bestimmen. 
