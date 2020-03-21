@@ -9,6 +9,9 @@ So geht´s:
 2. Rutsche nun mit gradem Rücken an der Wand so weit hinunter bis deine Oberschänkel waagerecht zum Boden sind.
 3. Halte diese Position nun so lange wie möglich.
 
+Je nach Deiner monemtanen Fitness solltest du dir selbst überlegen wie viele Wiederholungen du durchfühst. 
+
+Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch herraus.
 
 ![sporti](https://image.freepik.com/vektoren-kostenlos/gym-icon-set-pack_24908-60545.jpg)
 Bild: Lizensfrei von https://de.freepic.com
