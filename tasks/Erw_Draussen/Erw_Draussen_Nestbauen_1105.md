@@ -1,6 +1,6 @@
-(K) Schaffe schaffe, Nestle baue!
+**(K) Schaffe schaffe, Nestle baue!**
 
-So lange dauert's: 60-180 min
+So lang dauert's: 60-180 min
 
 Das brauchst du: nur dich 
 

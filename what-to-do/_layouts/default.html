@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <script type="text/javascript">
+
+        var postsHREF = [{% for post in site.posts %}"{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+        var postsTitle = [{% for post in site.posts %}"{{ post.title }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+    
+    </script>  
+   </head>
+  
+  <body>
+    <script type="text/javascript">
+
+        var randomIndexUsed = [];
+        var counter = 0;
+        var numberOfPosts = 1;
+    
+        while (counter < numberOfPosts)
+        {
+            var randomIndex;
+            var postHREF;
+            var postTitle;
+    
+            randomIndex = Math.floor(Math.random() * postsHREF.length);
+    
+            if (randomIndexUsed.indexOf(randomIndex) == "-1")
+            {
+                postHREF = postsHREF[randomIndex];
+                postTitle = postsTitle[randomIndex];
+    
+                if (counter == (numberOfPosts - 1))
+                {
+                    document.write('<p><a href="' + postHREF + '">' + postTitle + '</a></p>');
+                }
+                else
+                {
+                    document.write('<p><a href="' + postHREF + '">' + postTitle + '</a></p><hr />');
+                }
+    
+                randomIndexUsed.push(randomIndex);
+    
+                counter++;
+            }
+        }
+    
+    </script>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/blog/">Blog</a>
+    </nav>
+    <h1>{{ page.title }}</h1>
+    <section>
+      {{ content }}
+    </section>
+    <footer>
+      &copy; to me
+    </footer>
+  </body>
+</html>

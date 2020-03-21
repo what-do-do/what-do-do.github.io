@@ -1,7 +1,7 @@
 require 'find'
 require 'json'
 
-source = './lll/'
+source = '../task/'
 target = './test/'
 
 def head(fields)

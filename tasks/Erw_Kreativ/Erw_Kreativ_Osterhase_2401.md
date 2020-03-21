@@ -1,0 +1,15 @@
+**Osterhasen Deko für zuhause**
+
+So lang dauert’s: 10 Minuten
+
+Das brauchst du:
+
+- Klopapierrollen
+- Schere
+- Kleber
+- schwarzen Fine-Liner-Stift
+- etwas Pappe
+- etwas weißes Papier
+- ggf. buntes Papier, Wackelaugen, Wolle, Bändchen, Servietten, Glöckchen etc.
+
+So geht’s: Wenn du Lust hast nachhaltige Osterhasen zu basteln, bist du hier an der richitgen Stelle! Diese kleinen Süßlinge bestehen aus Klopapierrollen und lassen sich ganz nach den individuellen Vorstellungen gestalten. Pro Häschen benötigst du eine leere Rolle. Eine Anleitung mit zugehörigen Bildern findest du [hier](https://www.familie.de/diy/basteln/osterbasteln/osterhasen-basteln-aus-klorollen-suess-als-osternest-geschenkverpackung-oder-tischkaertchen/)

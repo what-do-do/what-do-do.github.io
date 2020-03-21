@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "landing 2"
+title:  "landing"
 date:   2020-03-21 10:59:22 +0100
 categories: jekyll update
 ---

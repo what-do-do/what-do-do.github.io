@@ -1,4 +1,4 @@
-Einmal Sonnenbrand bitte!
+**Einmal Sonnenbrand bitte!**
 
 So lange dauert's: 5 - 50 min
 
