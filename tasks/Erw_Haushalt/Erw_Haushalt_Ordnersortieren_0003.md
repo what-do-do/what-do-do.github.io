@@ -1,4 +1,4 @@
-Hast du die Post einfach in die Schublade gelegt und wolltest sie demnächst einsortieren? Heute ist der Tag!
+**Hast du die Post einfach in die Schublade gelegt und wolltest sie demnächst einsortieren? Heute ist der Tag!**
 
 So lang dauert’s: 5 bis 60 Minuten
 
