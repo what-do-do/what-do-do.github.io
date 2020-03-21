@@ -1,0 +1,7 @@
+**Mir geht es gut, ich hoffe dir auch.**
+
+So lang dauert’s: 30-60Minuten
+
+Das brauchst du: Ein Blatt Papier mit Umschlag und einen Stift
+
+So geht’s: Schreibe einen Brief an eine oder mehrere Personen. Vielleicht packst du einen Schokoriegel dazu oder ein Foto von dir. Du wirst sehen, dass sich der Empfänger viel mehr darüber freuen wird als über eine WhatsApp.
