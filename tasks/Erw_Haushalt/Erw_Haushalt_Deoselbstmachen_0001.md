@@ -1,4 +1,4 @@
-**Nur Zuhause und trotzdem frisch bleiben? Deo selbst machen**
+**Nur Zuhause und trotzdem frisch bleiben? Deo selbst machen!**
 
 So lang dauerts: 5 Minuten
 
