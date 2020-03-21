@@ -17,7 +17,7 @@ So geht´s:
   1. drücke dich über die Fersen wieder hoch in die Ausgangsposition.
     
 
-Je nach Deiner monemtanen Fitness solltest du dir selbst überlegen wie viele Wiederholungen du durchfühst. 
+Je nach Deiner monemtanen Fitness solltest du dir selbst überlegen wie viele Wiederholungen du durchführst. 
 
 Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch herraus.
 
