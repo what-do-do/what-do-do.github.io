@@ -15,4 +15,4 @@ So werden deine Lebensmittel genau richtig gekühlt und halten maximal lange.
 
 Wichtig zu wissen ist außerdem, dass wenn das Haltbarkeitsdatum überschritten ist die Lebensmittel nihct zwangsläufig nicht mehr genißbar sind.
 
-Ein Naturjoghurt ist beispielsweise nach über einem halben Jahr im geschlossen im Kühlschrank nach kurzem rühren noch genauso lecker wie am ersten Tag.
+Ein Naturjoghurt ist beispielsweise nach über einem halben Jahr ungeöffnet im Kühlschrank nach kurzem rühren noch genauso lecker wie am ersten Tag.
