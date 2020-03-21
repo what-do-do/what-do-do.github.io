@@ -8,4 +8,4 @@ So geht’s: Such dir den Eintrag bei Wikipedia heraus, den du schon länger als
 Ansonsten suche nach etwas, das du schon längst wissen wolltest.
 
 
-Weißt du beispielsweise, wie eine Ananas wächst?
+Weißt du beispielsweise, wie eine Ananas wächst? 
