@@ -1,0 +1,15 @@
+**Der Boden ist Lava**
+
+So lange dauert´s: bis die Lava abgekühlt ist.
+
+Das brauchst du: Möbel in deiner Wohnung und etwas Phantasie
+
+So geht´s:
+  1. schiebe deine Möbel ein wenig näher zusammen
+  2. suche dir einen Startpunkt aus, natürlich einen wo du nicht den Boden berührst.
+  3. nun suche dir ein Zielordner aus, den du erreichen willst
+  4. Jetzt geht es richtig los: Versuche deinene Zielort zu erreichen ohne in die Lava zu treten.
+  
+Mach es dir nicht zu leicht ;)
+
+[Hier](https://www.youtube.com/watch?v=DeXoACwOT1o) findest du noch Die passende Musikalische untermalung.
