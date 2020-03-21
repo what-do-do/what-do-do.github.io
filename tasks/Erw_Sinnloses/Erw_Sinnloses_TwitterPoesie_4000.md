@@ -1,4 +1,4 @@
-Dir fällt nix ein? Werde poetisch mithilfe von Twitter-Bots
+**Dir fällt nix ein? Werde poetisch mithilfe von Twitter-Bots**
 
 So lang dauert's: 2 Minuten 
 
@@ -10,4 +10,4 @@ So geht's: Suche nach Twitter-Accounts, die von Bots betrieben werden. Auf dem T
 
 ![image alt](https://cdn.pixabay.com/photo/2018/03/19/18/20/business-3240767_1280.jpg)
 
-Bild: Thought Catalog, Pixabay, Pixabay License, [Quelle](https://cdn.pixabay.com/photo/2018/03/19/18/20/business-3240767_1280.jpg) {21.03.2020}Ein lustiges Wort von @everyword Retweeten
+Bild: Thought Catalog, Pixabay License, [Pixabay] (https://cdn.pixabay.com/photo/2018/03/19/18/20/business-3240767_1280.jpg) {21.03.2020}Ein lustiges Wort von @everyword Retweeten
