@@ -1,4 +1,4 @@
-**Völlig von den Socken**
+**Völlig von den Socken!**
 
 So lang dauert’s: Abhängig von Vorkenntnissen und deinem Talent, nimm dir erstmal 30 Minuten Zeit
 
