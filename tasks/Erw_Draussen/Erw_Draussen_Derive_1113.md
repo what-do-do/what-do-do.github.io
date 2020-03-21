@@ -6,4 +6,4 @@ Das brauchst du: dich und die derive-App
 
 So geht's: Lade dir die App unter folgendem Link herunter. Hier wirst du nicht auf dem kürzestens Weg zu deinem eingegebenen Ziel geführt, sondern auf etwas andere Weise - ganz zufällig. 
 
-http://deriveapp.com/s/v2/
+[Ab zum Video!!](http://deriveapp.com/s/v2/)
