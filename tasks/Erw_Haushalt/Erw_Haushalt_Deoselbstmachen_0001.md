@@ -1,8 +1,11 @@
 Nur Zuhause und trotzdem frisch bleiben?
 
 **Deo selbst machen**
+
 So lang dauerts: 5 Minuten
+
 Das brauchst du: Leerer Deoroller, Natron, Speisestärke, Wasser, ggf. ätherisches Öl
+
 So gehts:
 1. Vermenge 100 ml kaltes Wasser mit 1-2 Teelöffel Stärke. 
 2. Das Wasser mit Stärke zum Kochen bringen, bis eine sirupartige Konsistenz erreicht ist.
