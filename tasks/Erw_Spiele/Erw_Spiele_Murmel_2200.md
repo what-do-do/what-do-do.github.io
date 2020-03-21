@@ -4,7 +4,7 @@ So lang dauert's: 1 Stunde oder auch viel länger
 
 Das brauchst du: Murmeln, alles mögliche
 
-So geht's: Schnapp dir deine alte Murmeln und deine eventuell vorhande Murmelbahn und erweitere diese um zusätzliche Strecken. Lass deiner Kreativität freien Lauf und binde deine Umgebung in deine neue Murmelbahn ein.
+So geht's: Schnapp dir deine alten Murmeln und deine eventuell vorhande Murmelbahn und erweitere diese um zusätzliche Strecken. Lass deiner Kreativität freien Lauf und binde deine Umgebung in deine neue Murmelbahn ein.
 
 Nach Fertigstellung und Test hast du eine perfekte Möglichkeit mit deinen Freunden über die sozialen Medien die Champions Leage dela Mürmel zu veranstalten und wahnwitzige Sportwetten im Centbereich zu platzieren :D
 Inspiration findet man bei Youtube zur Genüge.
