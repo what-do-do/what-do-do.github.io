@@ -7,6 +7,8 @@ Zimmerpflanzen vermehren in 4 Schritten:
 1. Entferne einige Blätter am abgeschnittenen Ende des Triebs.
 1. Setze den Trieb in ein Glas mit Wasser und stelle es an einen hellen Standort.
 
+Nach zwei bis drei Wochen haben sich Wurzeln gebildet und du kannst den Steckling in Erde einpflanzen. 
+
 Viele Zimmerpflanzen lassen sich auf diese Weise vermehren. 
 Lies vorher aber noch einmal nach, ob deine Pflanze auch so vermehrt werden kann. Zum Beispiel unter https://www.zimmerpflanzenlexikon.info/.
 
