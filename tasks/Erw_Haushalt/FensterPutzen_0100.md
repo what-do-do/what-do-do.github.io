@@ -8,3 +8,5 @@ So gehts:
 * Fenster mit Fensterreiniger einsprühen 
 * Mit einem Lappen drüber wischen 
 * Darauf achten, dass keine Schlieren entstehen (sonst nochmal putzen)
+
+![Bild von StockSnap auf Pixabay](https://cdn.pixabay.com/photo/2017/08/01/09/34/white-2563976_1280.jpg)
