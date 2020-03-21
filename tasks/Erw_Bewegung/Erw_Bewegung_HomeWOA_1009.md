@@ -1,4 +1,4 @@
-**kures Workout für Zuhause: Kniebeugen**
+**kurzes Workout für Zuhause: Kniebeugen**
 
 So lang dauert´s: 10 Minuten
 
@@ -8,12 +8,12 @@ So geht´s:
   1. begib dich in die Ausgangsposition: 
   
   *  stell dich schulterbreit hin.
-  *  Knie und Zehnspitzen zeigen in die selbe Richtung.
+  *  Knie und Zehnspitzen zeigen in dieselbe Richtung.
   *  nimm deine Arme vor dem Körper zusammen.
   *  beuge deinen Oberkörper etwas nach vorne.
   
-  2. spanne deinen Körper an und achte darauf das dein Rücken grade bleibt.
-  1. beuge langsam deine Knie, bis deine Oberschenkel paralle zum Boden Sind (deine Knie sollten nicht über deien Zehnspiten hinausragen).
+  2. spanne deinen Körper an und achte darauf, dass dein Rücken grade bleibt.
+  1. beuge langsam deine Knie, bis deine Oberschenkel parallel zum Boden sind (deine Knie sollten nicht über deine Zehenspitzen hinausragen).
   1. drücke dich über die Fersen wieder hoch in die Ausgangsposition.
     
 
