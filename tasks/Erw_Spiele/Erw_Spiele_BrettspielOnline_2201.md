@@ -1,4 +1,4 @@
-Spiel auf dem virtuellem Brett
+**Spiel auf dem virtuellem Brett**
 
 So lang dauert's: je nach Spiel
 
