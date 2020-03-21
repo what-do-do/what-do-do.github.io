@@ -4,5 +4,7 @@ So lang dauert’s: Abhängig von Vorkenntnissen und Talent, verbring erstmal 30
 
 Das brauchst du: Nadel und Faden, ggf. Stopfei
 
-So geht’s: Such dir eine Anleitung im Internet, da gibts viele, zum Beispiel diese hier: 
-https://www.brigitte.de/leben/wohnen/selbermachen/socken-stopfen--so-geht-s-ganz-einfach-11102216.html
+So geht’s: Such dir eine Anleitung im Internet, da gibts viele, zum Beispiel diese hier von Brigitte.de:
+(https://www.brigitte.de/leben/wohnen/selbermachen/socken-stopfen--so-geht-s-ganz-einfach-11102216.html)
+
+![beispiel](https://cdn.pixabay.com/photo/2013/03/09/14/53/socks-91856_1280.jpg)
