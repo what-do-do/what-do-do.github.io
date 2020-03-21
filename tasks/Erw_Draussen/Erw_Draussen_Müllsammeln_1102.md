@@ -1,4 +1,4 @@
-Welt retten - starte direkt vor deiner Tür!
+**Welt retten - starte direkt vor deiner Tür!**
 
 So lange dauert's: 10-60 min
 
