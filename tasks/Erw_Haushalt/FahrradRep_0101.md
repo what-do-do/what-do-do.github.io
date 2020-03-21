@@ -1,4 +1,4 @@
-Bring dein Fahrrad auf Vordermann, die warme Zeit steht vor der Tür. Falls es nicht kaputt ist, pflege es ein wenig, zum Beispiel fette die Kette.
+Bring dein **Fahrrad** auf Vordermann, die warme Zeit steht vor der Tür! Repariere es oder, falls alles noch dran ist, pflege es ein wenig, zum Beispiel fette die Kette.
 
 So lang dauerts: Mindestens 20 Minuten
 
