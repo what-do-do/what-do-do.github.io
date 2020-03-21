@@ -1,4 +1,4 @@
-*Heute schon jemandem Hilfe angeboten?**
+**Heute schon jemandem Hilfe angeboten?**
 
 So lang dauert’s: Vorbereitung ca. 5 Minuten, Durchführung ca. 1 Stunde
 
