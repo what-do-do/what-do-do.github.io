@@ -1,11 +1,11 @@
 Atmen - eigentlich ganz einfach oder? Doch stehen wir unter Stress verändert sich unsere Amtung, sie wird flacher und führt dazu, dass weniger Sauerstoff in unseren Körper gelangt. 
 Aus diesem Grund hier eine rhythmische Atemübung zur Entspannung. 
 
-*So lang dauert's:* wenige Minuten
+So lang dauert's: wenige Minuten
 
-*Das brauchst du:* Dich 
+Das brauchst du: Dich 
 
-*So geht's:* 
+So geht's: 
 1.) Setz oder stell dich aufrecht hin.
 2.) Atme bewusst durch die Nase ein und zähle bis acht.
 3.) Halte die Luft an und zähle bis vier.
