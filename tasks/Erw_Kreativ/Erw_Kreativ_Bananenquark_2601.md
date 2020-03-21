@@ -2,7 +2,13 @@
 
 So lang dauert’s: 10 Minuten
 
-Das brauchst du: Für zwei Portionen ca 2 reife Bananen, 200 g Quark (20% Fett in Tr.), 50 ml Milch, 1/2 TL flüssigen Honig, 1/2 Vanilleschote, davon das Mark. Nach Belieben gehackte Nüsse, z.B. Cashewnuss, Paranuss, Mandel und weiteres hinzufügen.
+Das brauchst du: Für zwei Portionen 
+- ca 2 reife Bananen
+- 200 g Quark (20% Fett in Tr.)
+- 50 ml Milch
+- 1/2 TL flüssigen Honig
+- 1/2 Vanilleschote, davon das Mark
+- Nach Belieben gehackte Nüsse, z.B. Cashewnuss, Paranuss, Mandel, Haselnuss...
 
 So geht’s: 
 
