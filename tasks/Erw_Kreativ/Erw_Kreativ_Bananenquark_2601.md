@@ -1,13 +1,15 @@
-**Leicht, lecker und jedes Mal anders: Bananenquark**
+**Leicht und lecker: Bananenquark**
 
 So lang dauert’s: 10 Minuten
 
-Das brauchst du: Für zwei Portionen 1 1/2 reife Bananen, 200 g Quark (20% Fett in Tr.), 50 ml Milch, 1/2 TL Honig, 1/2 Vanilleschote, davon das Mark. Nach Belieben gehackte Nüsse, z.B. Cashewnuss, Paranuss, Mandel und weiteres hinzufügen.
+Das brauchst du: Für zwei Portionen ca 2 reife Bananen, 200 g Quark (20% Fett in Tr.), 50 ml Milch, 1/2 TL flüssigen Honig, 1/2 Vanilleschote, davon das Mark. Nach Belieben gehackte Nüsse, z.B. Cashewnuss, Paranuss, Mandel und weiteres hinzufügen.
 
 So geht’s: 
 
-1. Den Speisequark mit der Milch glatt rühren. Die Bananen schälen und würfeln. Die Vanilleschote der Länge nach halbieren und auskratzen. 
+1. Rühre den Speisequark mit der Milch glatt. 
 
-2. Bananenwürfel und Vanillemark unter die Quarkmasse heben und 1 TL flüssigen Honig einrühren.
+2. Als nächstes die Bananen schälen und würfeln. Wenn du eine Vanilleschote zur Hand hast, halbiere sie der Länge nach und kratze sie aus. 
 
-3. Den Bananenquark nach Belieben mit gehackten Nüssen und Minze garnieren und genießen.
+2. Danach die Bananenwürfel mit dem Vanillemark unter die Quarkmasse heben und den Honig einrühren.
+
+3. Wenn du möchtest, kannst du noch gehackte Nüsse, andere Früchte oder Minze hinzufügen. Lass es dir schmecken :) 
