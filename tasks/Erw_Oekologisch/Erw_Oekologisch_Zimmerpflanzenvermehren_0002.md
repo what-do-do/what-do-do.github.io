@@ -4,7 +4,7 @@ So lang dauert’s: 5 Minuten
 
 Das brauchst du: sauberes Messer
 
-So geht's: Zimmerpflanzen vermehren in 4 Schritten
+So geht's: 
 
 1. Schneide einen 10-15 cm langen Trieb von deiner Pflanze ab.
 1. Verwende dafür möglichst junge, wenig verholzte Triebe ohne Blüten und Blütenknospen.
