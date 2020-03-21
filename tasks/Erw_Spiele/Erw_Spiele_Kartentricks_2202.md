@@ -1,4 +1,4 @@
-**Kartentrick für Anfänger: Der Memory Effekt **
+**Kartentrick für Anfänger: Der Memory Effekt**
 
 So lang dauert’s: 1 Stunde
 
