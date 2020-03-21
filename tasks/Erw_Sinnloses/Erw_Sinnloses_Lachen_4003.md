@@ -4,7 +4,7 @@ So lang dauert's: 1-20 Minuten (danach vielleicht lieber Arzt anrufen)
 
 Das brauchst du: Bauchmuskeln
 
-So geht's: 1... 2... 3 : Lachen! 
+So geht's: 3...2...1 LACHEN! 
 
 [Lustige Bilder im Internet](https://www.google.com/search?rls=en&sxsrf=ALeKk03q3ZIb5XSRcDahQkdi9yfxxwMr2g:1584806787771&q=funny+images&tbm=isch&source=univ&client=safari&sa=X&ved=2ahUKEwjDn_2s-avoAhWNN8AKHazPD0gQsAR6BAgKEAE&biw=1280&bih=714)
 
