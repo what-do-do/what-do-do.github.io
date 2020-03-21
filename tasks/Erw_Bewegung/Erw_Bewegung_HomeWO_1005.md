@@ -9,13 +9,13 @@ So geht's:
   
   2. Stell deine Füße auf die Mathe auf
   
-  3. Hebe deine Schultern an und lass sie erst nach der letzten Wiederholung wieder den Boden berühren
+  3. Hebe deine Schultern an und lass sie erst nach der letzten Wiederholung wieder den Boden berühren  
   
-  4.Atme nun ein und fühe einen Elenbogen an das gegeüberliegende Knie.
+  4. Atme nun ein und fühe einen Elenbogen an das gegeüberliegende Knie.
   
-  5.Atme am Ende der Bewegung aus.
+  5. Atme am Ende der Bewegung aus.
   
-  6.Wiederhole die Bewegung mit dem anderen Ellenbogen.
+  6. Wiederhole die Bewegung mit dem anderen Ellenbogen.
   
 Je nach Deiner monemtanen Fitness solltest du dir selbst überlegen wie viele Wiederholungen du durchfühst. 
 
