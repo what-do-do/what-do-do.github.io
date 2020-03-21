@@ -1,8 +1,8 @@
 require 'find'
 require 'json'
 
-source = '../task/'
-target = './test/'
+source = './tasks/'
+target = './what-to-do/_posts'
 
 def head(fields)
   res = "---\n"
@@ -34,5 +34,7 @@ for oriPath in md_file_paths
     res[iToIndex[i]] = value
     i = i + 1
   end
-  File.write("#{target}/2020-03-21-#{res['id']}.md", head(res)+File.read(oriPath))
+  filename = "#{target}/2020-03-21-#{res['id']}.md" 
+  File.open(filename, "w")
+  File.write(filename, head(res)+File.read(oriPath))
 end
