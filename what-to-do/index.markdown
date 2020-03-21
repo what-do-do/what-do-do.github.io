@@ -12,4 +12,22 @@ Alles, was du tun musst ist, daheim zu bleiben. Um dir diese Zeit etwas zu verei
 paar interessante Challenges für dich zusammengestellt. Bla bla bla.
 
 <h1>HTML heading</h1>
-<script>alert()</script>
+
+<label for="age">Wähle deine Kategorie</label>
+
+<select id="age">
+  <option value="Elt">Eltern</option>
+  <option value="Jug">Jugend</option>
+  <option value="Erw">Erwachsene</option>
+  <option value="Fam">Familie/WG/Paar</option>
+</select>
+
+<script>
+function getChallenge() {
+  var e = document.getElementById("age");
+  var strUser = e.options[e.selectedIndex].value;
+  window.location.assign("/404.html#" + strUser);
+}
+</script>
+
+<button type="button" onclick="getChallenge();">Wähle deine Challenge</button>
