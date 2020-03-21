@@ -1,6 +1,6 @@
 **Immer langsam mit den jungen Pferden!**
 
-So lang dauert’s: so lang wie du die Handlung hinauszögern kannst
+So lang dauert’s: 5 Minuten
 
 Das brauchst du: Dich 
 
