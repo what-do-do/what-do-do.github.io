@@ -1,4 +1,4 @@
-**Zwischendurch ein kleines Workout starten: Cross Crunches **
+**Zwischendurch ein kleines Workout starten: Cross Crunches**
 
 So lang dauert's: 10 Minuten
 
