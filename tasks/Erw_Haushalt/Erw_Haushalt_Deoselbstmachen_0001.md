@@ -1,6 +1,6 @@
 Nur Zuhause und trotzdem frisch bleiben?
 
-**Deo selbst machen**   (Flo)
+**Deo selbst machen**
 * So lang dauerts: 5 Minuten
 * Das brauchst du: Leerer Deoroller, Natron, Speisestärke, Wasser, ggf. ätherisches Öl
 * So gehts:
