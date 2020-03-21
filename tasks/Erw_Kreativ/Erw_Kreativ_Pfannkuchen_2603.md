@@ -1,0 +1,7 @@
+**It's Pfannkuchen-time!**
+
+So lang dauert’s: 15 Minuten
+
+Das brauchst du: Handy / Laptop zum Abspielen 
+
+So geht’s: In diesem [Video](https://www.br.de/mediathek/video/jung-und-hungrig-27022020-die-besten-pfannkuchen-rezepte-av:5e1f3d6fc85d6e001a7128ee)  findest du die besten Pfannkuchenrezepte aufbereitet vom Bayerischen Rundfunk. Schau einfach mal rein und lass dich inspirieren :) 
