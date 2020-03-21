@@ -28,16 +28,9 @@
                 postHREF = postsHREF[randomIndex];
                 postTitle = postsTitle[randomIndex];
 
-                if (counter == (numberOfPosts - 1))
-                {
-                    document.write('<p><a href="' + postHREF + '">' + postTitle + '</a></p>');
-                }
-                else
-                {
-                    document.write('<p><a href="' + postHREF + '">' + postTitle + '</a></p><hr />');
-                }
                 randomIndexUsed.push(randomIndex);
                 counter++;
+              return postHREF
             }
         }
     

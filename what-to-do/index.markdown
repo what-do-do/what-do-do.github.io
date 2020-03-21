@@ -26,7 +26,9 @@ paar interessante Challenges für dich zusammengestellt. Bla bla bla.
 function getChallenge() {
   var e = document.getElementById("age");
   var strUser = e.options[e.selectedIndex].value;
-  window.location.assign(getUrl);
+  var url = getUrl();
+  console.log(url);
+  window.location.assign(url);
 }
 </script>
 
@@ -58,24 +60,9 @@ function getUrl()
     if (randomIndexUsed.indexOf(randomIndex) == "-1")
     {
       postHREF = postsHREF[randomIndex];
-      postTitle = postsTitle[randomIndex];
-
-      if (counter == (numberOfPosts - 1))
-      {
-        console.log(postHREF);
-        console.log(postTitle);
-        res = ' + postHREF + '>' + postTitle + ';
-      }
-      else
-      {
-        console.log(postHREF);
-        console.log(postTitle);
-        res = ' + postHREF + '>' + postTitle + ';
-        res = ' + postHREF + '>' + postTitle + ';
-      }
       randomIndexUsed.push(randomIndex);
       counter++;
-      return res
+      return postHREF
     }
   }
 } 
