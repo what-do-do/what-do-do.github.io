@@ -1,6 +1,6 @@
 **Jedem Zimmer der Wohnung/des Hauses "Hallo" sagen**
 
-So lang dauert’s:je nach Größe der Wohnung bis zu 10 Minuten
+So lang dauert’s: Je nach Größe der Wohnung bis zu 10 Minuten
 
 
 Das brauchst du: Dich und sonst nix
