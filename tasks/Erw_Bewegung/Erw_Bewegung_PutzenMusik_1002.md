@@ -1,6 +1,6 @@
 **Party Putzen ist angesagt!**
 
-So lange dauert´s: 15 Minuten
+So lang dauert´s: 15 Minuten
 
 Das brauchst du: Einen Besen, Staubsauger, oder Lappen.
 
