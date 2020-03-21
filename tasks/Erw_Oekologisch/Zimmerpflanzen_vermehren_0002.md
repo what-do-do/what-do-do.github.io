@@ -3,7 +3,7 @@
 Zimmerpflanzen vermehren in 4 Schritten:
 
 1. Schneide einen 10-15 cm langen Trieb von deiner Pflanze ab.
-1. Verwende dafür möglichst junge, wenig verholzte Triebe ohne Blüten und Blutenknospen.
+1. Verwende dafür möglichst junge, wenig verholzte Triebe ohne Blüten und Blütenknospen.
 1. Entferne einige Blätter am abgeschnittenen Ende des Triebs.
 1. Setze den Trieb in ein Glas mit Wasser und stelle es an einen hellen Standort.
 
