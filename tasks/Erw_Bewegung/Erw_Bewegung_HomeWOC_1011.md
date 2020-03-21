@@ -14,4 +14,10 @@ So geht´s:
   4. lege deinen Körper nun wieder in die Ausgangsposition ab
   5. wiederhole diese Übung 
   
+Je nach Deiner monemtanen Fitness solltest du dir selbst überlegen wie viele Wiederholungen du durchfühst. 
+
+Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch herraus.
+
+![Plank](https://image.freepik.com/fotos-kostenlos/mann-der-plankenuebung-tut_23-2147775982.jpg)
  
+Bild: freepik, Freepik-Lizenz, [Freepik](https://de.freepik.com/fotos-kostenlos/mann-der-plankenuebung-tut_2020967.htm#page=1&query=sport%20plank&position=6) {21.03.2020}
