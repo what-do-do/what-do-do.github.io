@@ -2,7 +2,24 @@
 
 So lang dauert's: 20 Minuten
 
-Das brauchst du: Für eine Portion 1 großen Weizentortilla, ½	Zwiebel, 25 g	Schinken (gewürfelt, mager, bis 2% Fett), 30 g	Schmand, 30 g	Crème légère, ½ EL	Schnittlauch, Salz und Pfeffer und einen Backofen
+Das brauchst du: Für eine Portion 
+- 1 großen Weizentortilla
+- ½	Zwiebel
+- 25 g	Schinken (gewürfelt, mager, bis 2% Fett)
+- 30 g	Schmand
+- 30 g	Crème légère
+- ½ EL	Schnittlauch
+- Salz und Pfeffer
+- einen Backofen
 
-So geht's: Schmand, Crème légère und Schnittlauch mischen und die Tortilla-Wraps damit bestreichen. Etwas Salz und Pfeffer darauf streuen. Schinkenwürfel auf die beiden Wraps streuen. Zwiebel in dünne Ringe schneiden und darauf verteilen. Anschließend die Wraps auf Backpapier in den vorgeheizten Ofen legen. Die Backzeit beträgt 15 min bei 180 °C Umluft. 
-Tipp: Dieses Rezept lässt sich auch wunderbar abwandeln mit weiteren Zutaten wie zum Beispiel Rucola, Kirschtomaten und Parmesan.
+So geht's: 
+
+1. Vermische Schmand, Crème légère und den Schnittlauch und bestreiche damit den Tortilla
+
+2. Schmecke die Mischung mit etwas Salz und Pfeffer ab. Danach kannst du die Schinkenwürfel auf den Wrap hinzugeben. 
+
+3. Nun die Zwiebel in dünne Ringe schneiden und darauf verteilen. 
+
+4. Lege anschließend den Wrap auf Backpapier in den vorgeheizten Ofen. Die Backzeit beträgt 15 min bei 180 °C Umluft. 
+
+Tipp: Als Variation kannst du auch Zutaten wie zum Beispiel Rucola, Kirschtomaten und Parmesan verwenden oder als süße Variante auch Birne mit Ziegenkäse und Honig.
