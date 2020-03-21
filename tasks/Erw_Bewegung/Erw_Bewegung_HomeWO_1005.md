@@ -1,4 +1,4 @@
-**Zwischendurch ein kleines WorkOut starten**
+**Zwischendurch ein kleines Workout starten**
 
 So lang dauert's: 10 Minuten
 
