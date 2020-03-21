@@ -7,5 +7,3 @@ Das brauchst du: Putzutensilien, ggf. Zeitungspapier (probiers aus)
 So geht's: Hol alles von den Oberschränken runter und wisch den ganzen Schmodder ab. 
 Je nachdem, wie lange das letzte mal her ist, könnte das ein bisschen dauern oder etwas stärkere Putzmittel benötigen. Wenn dus dir fürs nächste Mal leichter machen willst,
 leg danach Zeitungspapier drauf, was du regelmäßig wechseln kannst. 
-
-![Bild von Tama66 auf Pixabay](https://cdn.pixabay.com/photo/2019/09/09/19/32/space-4464470__480.jpg)
