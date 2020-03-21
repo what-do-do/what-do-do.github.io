@@ -12,4 +12,4 @@ So geht´s:
   
 Mach es dir nicht zu leicht ;)
 
-[Hier](https://www.youtube.com/watch?v=DeXoACwOT1o) findest du noch Die passende Musikalische untermalung.
+[Hier](https://www.youtube.com/watch?v=DeXoACwOT1o) findest du noch die passende musikalische Untermalung.
