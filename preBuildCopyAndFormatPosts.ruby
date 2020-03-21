@@ -4,8 +4,6 @@ require 'json'
 source = './lll/'
 target = './test/'
 
-head = '---\nlayout: post\ntitle:  "Welcome to Jekyll!"\n---'
-
 def head(fields)
   res = "---\n"
   fields.each do |key,value|
@@ -25,7 +23,7 @@ end
 iToIndex = { 0 => 'categories', 1 => 'subcategories', 2 => 'title', 3 => 'id'}
 for oriPath in md_file_paths
   i = 0  
-  res = {}
+  res = {'layout'=> 'post'}
   path = oriPath[0..(oriPath.length()-4)].split('/')[-1]
   for g1 in path.split('_')
     if i < 2
