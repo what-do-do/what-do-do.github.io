@@ -13,6 +13,7 @@ So geht's: Zimmerpflanzen vermehren in 4 Schritten
 
 Nach zwei bis drei Wochen haben sich Wurzeln gebildet und du kannst den Steckling in Erde einpflanzen. 
 
+
 Viele Zimmerpflanzen lassen sich auf diese Weise vermehren. 
 Lies vorher aber noch einmal nach, ob sich deine Pflanze auch so vermehren lässt. Zum Beispiel unter https://www.zimmerpflanzenlexikon.info/.
 
