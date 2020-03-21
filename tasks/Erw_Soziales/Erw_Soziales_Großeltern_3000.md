@@ -1,4 +1,4 @@
-**Generationen im Dialog - Ruf eine Person aus deinem Bekanntenkreis an, die mindestens 30 Jahre jünger oder älter als du ist.**
+**Generationen im Dialog - Ruf eine Person aus deinem Bekanntenkreis an, die mindestens 30 Jahre älter oder jünger ist als du.**
 
 So lang dauert's: 5-15 Minuten
 
