@@ -1,4 +1,4 @@
-Mal wieder Lust auf Flammkuchen? Hier kommt ein leckeres Rezept für Flammkuchen aus Weizentortillas! 
+**Omnomnom**
 
 So lang dauert's: 20 Minuten
 
