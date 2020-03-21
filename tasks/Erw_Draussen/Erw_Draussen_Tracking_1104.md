@@ -1,4 +1,4 @@
-Malen nach Schritten!
+**Malen nach Schritten!**
 
 So lange dauert's: 10-60 min
 
