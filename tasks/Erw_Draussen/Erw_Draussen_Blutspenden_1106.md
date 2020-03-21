@@ -2,6 +2,6 @@
 
 So lang dauert's: 40-120 min
 
-Das brauchst du: etwas Mut
+Das brauchst du: etwas Mut und Blut
 
 So geht’s: Informiere dich, wo die nächste Station zum Blutspenden in deiner Nähe ist. Trinke viel Wasser und gehe dort hin.
