@@ -1,4 +1,4 @@
-**kures Workout für Zuhause**
+**kures Workout für Zuhause: Kniebeugen**
 
 So lang dauert´s: 10 Minuten
 
