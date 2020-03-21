@@ -13,5 +13,5 @@ Je nach Deiner monemtanen Fitness solltest du dir selbst überlegen wie viele Wi
 
 Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch herraus.
 
-![sporti](https://image.freepik.com/vektoren-kostenlos/gym-icon-set-pack_24908-60545.jpg)
+![sporti](https://image.freepik.com/vektoren-kostenlos/persoenliche-trainer-konzeptillustration_114360-1552.jpg)
 Bild: Lizensfrei von https://de.freepic.com
