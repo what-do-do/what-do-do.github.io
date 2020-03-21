@@ -1,11 +1,10 @@
-Bring dein **Fahrrad** auf Vordermann, die warme Zeit steht vor der Tür! Repariere es oder, falls alles noch dran ist, pflege es ein wenig, zum Beispiel fette die Kette.
+**Bring dein Fahrrad auf Trapp, die warme Zeit steht vor der Tür!** 
 
-So lang dauerts: Mindestens 20 Minuten
+So lang dauert´s: Nimm dir mindestens 20 Minuten
 
-Das brauchst du: Werkzeug, Kettenfett etc.
+Das brauchst du: Dein Fahrrad, Werkzeug, Kettenfett etc.
 
-So gehts: 
-* Das kommt ganz auf dein Fahrrad an
-* Falls du nicht weiter weißt: So schwierig ist es nicht! Google dein konkretes Problem oder lass dich von einem Freund/einer Freundin beraten, der/die sich besser auskennt als du
+So geht´s: Such dir im Keller oder Hof ein Plätzchen und repariere dein Fahrrad, damit du bald wieder losdüsen kannst. Falls es nichts zu reparieren gibt, pflege es ein wenig (zum Beispiel fette die Kette). Falls du nicht weiter weißt: So schwierig ist es meistens nicht! Google dein konkretes Problem oder lass dich von einem Freund oder einer Freundin beraten, der oder die sich besser auskennt als du.
 
-![Bild von danfador auf Pixabay](https://cdn.pixabay.com/photo/2013/10/03/23/19/bike-190483_1280.jpg)
+![Foto](https://cdn.pixabay.com/photo/2013/10/03/23/19/bike-190483_1280.jpg)
+Bild: danfador, Pixabay, [pixaby] https://pixabay.com/de/photos/fahrrad-zwei-rad-altes-fahrrad-190483/, Datum: 21.03.2020
