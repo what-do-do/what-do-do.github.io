@@ -1,4 +1,4 @@
-**Sinnestaucher**
+**Sinnetauchen**
 
 So lang dauert’s: 3 Minuten
 
