@@ -9,11 +9,11 @@ So geht´s:
   
   *  stell dich schulterbreit hin.
   *  Knie und Zehnspitzen zeigen in die selbe Richtung.
-  *  Arme waagerecht vor den Körper stecken
-  * beuge deinen Oberkörper etwas nach vorne
+  *  nimm deine Arme vor dem Körper zusammen.
+  *  beuge deinen Oberkörper etwas nach vorne.
   
-  2. spanne deinen Körper an und achte darauf das dein Rücken grade bleibt
-  1. beuge langsam deine Knie, bis deine Oberschenkel paralle zum Boden Sind (deine Knie sollten nicht über deien Zehnspiten hinausragen.
+  2. spanne deinen Körper an und achte darauf das dein Rücken grade bleibt.
+  1. beuge langsam deine Knie, bis deine Oberschenkel paralle zum Boden Sind (deine Knie sollten nicht über deien Zehnspiten hinausragen).
   1. drücke dich über die Fersen wieder hoch in die Ausgangsposition.
     
 
@@ -23,3 +23,5 @@ Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch herr
 
 
 ![Kniebeuge](https://image.freepik.com/fotos-kostenlos/exemplarplatzfrau-die-uebungen-tut_23-2148435355.jpg)
+
+Bild: Lizensfrei von https://de.freepik.com
