@@ -5,11 +5,11 @@ So lang dauert´s: 15 Minuten
 Das brauchst du: Dich und eine Stück Wand, vor der nichts steht.
 
 So geht´s: 
-1. Stell dich mit dem Rücken an die Wand, lasse deine arm dabei einfach hängen.
-2. Rutsche nun mit gradem Rücken an der Wand so weit hinunter bis deine Oberschänkel waagerecht zum Boden sind.
+1. Stell dich mit dem Rücken an die Wand, lasse deine Arme dabei einfach hängen.
+2. Rutsche nun mit geradem Rücken an der Wand so weit hinunter, bis deine Oberschenkel waagerecht zum Boden sind.
 3. Halte diese Position nun so lange wie möglich.
 
-Je nach Deiner monemtanen Fitness solltest du dir selbst überlegen wie viele Wiederholungen du durchfühst. 
+Je nach Deiner monemtanen Fitness solltest du dir selbst überlegen wie viele Wiederholungen du durchführst. 
 
 Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch herraus.
 
