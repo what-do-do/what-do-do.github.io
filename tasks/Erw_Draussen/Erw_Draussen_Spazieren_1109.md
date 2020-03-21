@@ -4,4 +4,4 @@ So lang dauert's: 10-60min
 
 Das brauchst du: nur dich
 
-So geht's: Ab nach Draußen. Spaziere raus, einmal um den Block!
+So geht's: Spaziere die Straße auf und ab. Auf und ab - immer weiter.
