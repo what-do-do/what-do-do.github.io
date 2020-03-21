@@ -1,4 +1,4 @@
-**Reden ist silber, Schweigen ist gold**
+**Reden ist silber, Schweigen ist offline**
 
 So lang dauert’s: 1 Stunde
 
