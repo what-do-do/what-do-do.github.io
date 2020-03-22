@@ -2,7 +2,7 @@
 
 So lang dauert´s: 5 Minuten
 
-Das brauchst du: Dich und deinen Laptop oder dein Handy.
+Das brauchst du: Dich und deinen Laptop oder dein Handy
 
 So geht’s: Klicke einfach hier auf den Link und tanze die Choreografie nach!!!
 
