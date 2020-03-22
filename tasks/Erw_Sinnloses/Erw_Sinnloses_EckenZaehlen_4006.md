@@ -1,10 +1,10 @@
 **Wie viele Ecken gibt es in deiner Wohnung?**
 
-So lang dauert's: 5-55 Minuten 
+So lang dauert's: 5 bis 55 Minuten 
 
-Das brauchst du: Deine Finger zum Zählen, ggf. was zu Schreiben
+Das brauchst du: Deine Finger zum Zählen, ggf. etwas zum Schreiben
 
-So geht's: Wie viele Ecken hat deine Wohnung eigentlich? Das wirst du nun rausfinden. So kannst du zukünftig immer auf diese Frage antworten und auch beim Putzen keine mehr vergessen...
+So geht's: Wie viele Ecken hat deine Wohnung eigentlich? Das wirst du nun herausfinden. So kannst du zukünftig immer auf diese Frage antworten und auch beim Putzen keine mehr vergessen...
 
 [Wikipedia: Ecke](https://de.wikipedia.org/wiki/Ecke)
 
