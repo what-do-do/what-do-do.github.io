@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQ
-permalink: /faq/
+permalink: /faq
 ---
 
 # Häufige Fragen
