@@ -8,4 +8,4 @@ So geht´s: Ausmisten ist voll im Trend! Knöpf dir deinen Kleiderschrank vor un
 
 
 ![Foto](https://cdn.pixabay.com/photo/2012/07/29/21/42/dresses-53319_1280.jpg)
-Bild: JamesDeMers, Pixaby, https://pixabay.com/de/photos/kleider-bekleidung-kleidung-53319/, Datum: 21.03.2020
+Bild: JamesDeMers, Pixabay-Lizens,[Pixabay](https://pixabay.com/de/photos/kleider-bekleidung-kleidung-53319/), Datum: 21.03.2020
