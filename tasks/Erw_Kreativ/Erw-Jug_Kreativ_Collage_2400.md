@@ -1,5 +1,4 @@
-**Collage selber machen- und nein, das hat nichts mit Antifaltencreme zu tun**
-
+**Collage selber machen**
 
 So lang dauert's: ab 15 Minuten so lange, wie du möchtest
 
