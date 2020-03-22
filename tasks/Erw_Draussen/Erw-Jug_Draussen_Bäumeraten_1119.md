@@ -1,6 +1,6 @@
 **Bäume raten**
 
-So lang dauert's: 30-120 Minuten
+So lang dauert's: 30 - 120 Minuten
 
 Das brauchst du: dich und ein Baumlexikon oder alternativ dein Handy
 
