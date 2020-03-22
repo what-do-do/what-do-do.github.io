@@ -6,7 +6,7 @@ Das brauchst du: Dich, einen Gegenüber oder einen Spiegel
 
 So geht´s: Eine Rede, eine Rede! Eine Stegreifrede wird spontan und weitestgehend unvorbereitet zu einem bestimmten Thema gehalten. 
 Das Üben Zuhause kann dabei helfen, die eigenen Gedanken in Stresssituationen schnell zu ordnen und allgemein freier zu sprechen. 
-Dein Publikum siehst du auf dem Bild, überzeuge sie von deiner Meinung zum Thema:
+Du hast zwei Minuten Zeit. Dein Publikum siehst du auf dem Bild, überzeuge sie von deiner Meinung zum Thema:
 
 Warum Yoga das neue Fußball ist!
 
