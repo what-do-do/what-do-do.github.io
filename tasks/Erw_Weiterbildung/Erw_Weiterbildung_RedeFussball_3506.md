@@ -13,4 +13,4 @@ Warum Yoga das neue Fußball ist!
 Tipp: Ein guter Anfang ist immer eine kurze Erläuterung, warum das Thema wichtig ist. 
 
 ![Bild](https://cdn.pixabay.com/photo/2016/08/10/19/30/crowd-1584115_1280.jpg)
-Bild: KeithJJ, Pixaby-Lizenz, [Pixabay](https://pixabay.com/de/photos/menge-sport-fans-zuschauer-stadion-1584115/) {21.03.2020}
+*Bild: KeithJJ, Pixaby-Lizenz, [Pixabay](https://pixabay.com/de/photos/menge-sport-fans-zuschauer-stadion-1584115/) {21.03.2020}*
