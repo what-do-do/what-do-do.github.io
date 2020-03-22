@@ -33,15 +33,6 @@ function getAge()
 
 <button type="button" onclick="getChallenge();">Wähle deine Challenge</button>
 
-<script>
-function getAge() 
-{
-  var e = document.getElementById("age");
-  var age = e.options[e.selectedIndex].value;
-  return age;
-}
-</script>
-
 <script type="text/javascript">
   var postsHref = 
   [
