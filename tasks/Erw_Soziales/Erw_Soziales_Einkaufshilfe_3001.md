@@ -7,4 +7,4 @@ Das brauchst du: Zettel und Stift
 So geht’s: Für einige Menschen ist es aktuell schwieriger geworden, alltägliche Aufgaben zu erledigen, wie Einkäufe, Apothekengänge oder Ähnliches. 
 Manche gehören zu einer Risikogruppe, andere sind in Quarantäne oder müssen Kinder betreuen. Wenn du selbst nicht dazu gehörst und gesund bist, 
 biete doch in einem Aushang deinen Nachbarn Hilfe bei diesen Dingen an. Schreib eine persönliche, nette Nachricht und schau, ob sich jemand meldet. 
-Bei der Durchführung achte natürlich darauf, dass du bei der Übergabe Abstand hältst und die Hygieneregeln beachtest, damit du niemanden zusätzlich gefährdest.
+Bei der Durchführung achte darauf, dass du bei der Übergabe Abstand hältst und die Hygieneregeln beachtest, damit du niemanden zusätzlich gefährdest.
