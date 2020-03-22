@@ -4,7 +4,7 @@ So lang dauert´s: 10 Minuten
 
 Das brauchst du: Dich und sonst nix
 
-So geht´s: 
+So geht's: 
   1. Begib dich in die Ausgangsposition: 
   
   *  Stell dich schulterbreit hin
