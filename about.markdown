@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: Info
 permalink: /about/
 ---
-
-# About
 
 ## Die Flat Curvler
 
@@ -28,9 +26,8 @@ Unser Ziel ist es, die Ideenlosigkeit in der Isolation zu vertreiben und mit Wit
 
 ## Über Uns
 
-Wir sind ein Team von 15 Menschen, von denen sich die meisten noch nie begegnet sind. Doch in Zeiten der Cornona-Kriese haben wir uns alle beim Hackathon #WirvsVirus angemeldet und als Team zusammengefunden. Wir haben gemeinsam diese Lösung zur Verbesserung des alltäglichen Lebens in Zeiten der Isolation erarbeitet.
+Wir sind ein Team von 15 Menschen, von denen sich die meisten noch nie begegnet sind. Doch in Zeiten der Corona-Krise haben wir uns alle beim Hackathon #WirvsVirus angemeldet und als Team zusammengefunden. Wir haben gemeinsam diese Lösung zur Verbesserung des alltäglichen Lebens in Zeiten der Isolation erarbeitet.
 
-Dafür haben wir diese Website entwickelt und uns für euch Aktivitäten überlegt, die in diesen Zeiten (aber ntürlich auch darüber hinaus) Langeweile vertreiben uns Spaß machen.
+Dafür haben wir diese Website entwickelt und uns für euch Aktivitäten überlegt, die in diesen Zeiten (aber natürlich auch darüber hinaus) Langeweile vertreiben und Spaß machen.
 
 Wir wünschen euch also viel Spaß damit und eine gute Zeit.
-Eurer *What to do* Team
