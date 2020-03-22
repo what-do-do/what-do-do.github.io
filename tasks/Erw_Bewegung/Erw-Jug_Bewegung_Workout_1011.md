@@ -1,10 +1,10 @@
 **Ein bisschen Sport für zwischendurch: Plank**
 
-So lang dauert´s: 15 Minuten
+So lang dauert's: 15 Minuten
 
 Das brauchst du: Dich und eine relativ weiche Unterlage.
 
-So geht´s: 
+So geht's: 
   1. Begib dich zuerst in die Ausgangsposition:
   * Lege deine Unterarme auf dem Boden ab, sie sollen gerade unter den Schultern sein
   * Deine Füße sollen auf dem Boden sein, mit den Zehenspitzen auf dem Boden
