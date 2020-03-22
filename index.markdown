@@ -44,6 +44,7 @@ paar interessante Challenges für dich zusammengestellt.
      <!-- <option value="Elt">Eltern</option> -->
       <option value="Jug">Jugend</option>
       <option value="Erw">Erwachsene</option>
+      <option value="Kin">Kinder</option>
       <!-- <option value="Fam">Familie/WG/Paar</option> -->
     </select>
     <br>
