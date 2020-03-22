@@ -17,7 +17,7 @@ So geht's:
   
   6. Wiederhole die Bewegung mit dem anderen Ellenbogen
   
-Abhängig von deiner momentanen Fitness solltest du dir selbst überlegen wie viele Wiederholungen du durchführst. 
+Abhängig von deiner momentanen Fitness solltest du dir selbst überlegen, wie viele Wiederholungen du durchführst. 
 
 Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch heraus.
 
