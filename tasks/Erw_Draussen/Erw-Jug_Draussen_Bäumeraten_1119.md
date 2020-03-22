@@ -2,9 +2,9 @@
 
 So lang dauert's: 30-120 Minuten
 
-Das brauchst du: dich und ein Buchlexikon
+Das brauchst du: dich und ein Baumlexikon oder alternativ dein Handy
 
-So geht’s: Kennst du schon alle Bäume in deiner Umgebung? Gehe raus und sieh dir die Bäume in deiner Nähe genau an. Weißt du um was für eine Art Baum es sich handelt? 
+So geht’s: Kennst du schon alle Bäume in deiner Umgebung? Gehe raus und sieh dir die Bäume in deiner Nähe genau an. Weißt du, um was für eine Art Baum es sich handelt? 
 
 Überprüfe deine Vermutung in einem Lexikon oder im Internet.
 
