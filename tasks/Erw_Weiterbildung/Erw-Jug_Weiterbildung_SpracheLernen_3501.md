@@ -16,7 +16,7 @@ So geht's: Es gibt viele Wege, eine Sprache zu lernen. Einer davon ist sehr unte
 1. Mache eine Liste mit Dingen, die dir in dem Film gut/schlecht gefallen haben (in der Fremdsprache)
 1. Wurden Stereotypen im Film gezeigt oder gab es Klischees die bedient wurden? Mache eine Liste (in der Fremdsprache)
 1. Mache eine Liste mit Dingen, die du über das andere Land aus dem der Film kommt gelernt hast (in der Fremdsprache)
-1. Liste die Rollen in dem Film auf und schreibe eine kurzen Text zu jeder Person (in der Fremdsprache)
+1. Liste die Rollen in dem Film auf und schreibe einen kurzen Text zu jeder Person (in der Fremdsprache)
 1. Lies dir nach dem Film 3 Kritiken zu dem Film (in der Fremdsprache) durch
 1. Schreibe deine eigene (Kurz-)Kritik (in der Fremdsprache)
 1. Kennst du jemanden, der auch diese Fremdsprache spricht? Dann unterhaltet euch zusammen über den Film (in der Fremdsprache)
