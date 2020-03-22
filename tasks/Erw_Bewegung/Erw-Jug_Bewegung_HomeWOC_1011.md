@@ -20,7 +20,7 @@ So geht´s:
   
 Abhängig von deiner momentanen Fitness solltest du dir selbst überlegen wie viele Wiederholungen du durchführst. 
 
-Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch herraus.
+Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch heraus.
 
 ![Plank](https://image.freepik.com/fotos-kostenlos/mann-der-plankenuebung-tut_23-2147775982.jpg)
  
