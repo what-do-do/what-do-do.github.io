@@ -5,7 +5,7 @@ So lang dauert´s: 15 Minuten
 Das brauchst du: Dich und eine Stück Wand, vor der nichts steht.
 
 So geht´s: 
-1. Stell dich mit dem Rücken an die Wand und lass deine Arme dabei einfach hängen.
+1. Stelle dich mit dem Rücken an die Wand und lasse deine Arme dabei einfach hängen.
 2. Rutsche nun mit geradem Rücken an der Wand so weit hinunter, bis deine Oberschenkel waagerecht zum Boden sind.
 3. Halte diese Position nun so lange wie möglich.
 
