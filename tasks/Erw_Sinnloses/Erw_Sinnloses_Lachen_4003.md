@@ -1,6 +1,6 @@
 **Versuch so lange zu lachen, wie du kannst**
 
-So lang dauert's: 1-20 Minuten (danach vielleicht lieber Arzt anrufen)
+So lang dauert's: 1 - 20 Minuten (danach vielleicht lieber Arzt anrufen)
 
 Das brauchst du: Bauchmuskeln
 
