@@ -20,7 +20,6 @@ paar interessante Challenges für dich zusammengestellt. Bla bla bla.
   <option value="Fam">Familie/WG/Paar</option>
 </select>
 
-# Gets the current value of the age dropdown
 <script>
 function getAge() 
 {
@@ -35,7 +34,7 @@ function getChallenge()
 {
   var e = document.getElementById("age");
   var strUser = e.options[e.selectedIndex].value;
-  var url = getUrl();
+  var url = "what-to-do.github.io/"+getUrl();
   console.log(url);
   window.location.assign(url);
 }
