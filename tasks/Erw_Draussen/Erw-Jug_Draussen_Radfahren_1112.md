@@ -1,6 +1,6 @@
 **Unterwegs auf zwei Rädern**
 
-So lang dauert's: 30-90 Minuten
+So lang dauert's: 30 - 90 Minuten
 
 Das brauchst du: ein Fahrrad
 
