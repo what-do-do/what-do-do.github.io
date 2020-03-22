@@ -22,3 +22,4 @@ Falls du den Namen deiner Pflanze nicht kennst, kannst du sie mit der App PlantN
 
 ![Bild von  auf Pixabay](https://pixabay.com/get/51e9d7434353b108feda8460825668204022dfe05b557640722b79d7/houseplants-792091_1920.jpg)
 https://pixabay.com/de/photos/zimmerpflanzen-pflanzen-blumen-792091/
+Bild: kaboompics, Pixabay License, [Pixabay](https://pixabay.com/get/51e9d7434353b108feda8460825668204022dfe05b557640722b79d7/houseplants-792091_1920.jpg), Datum: 21.03.2020
