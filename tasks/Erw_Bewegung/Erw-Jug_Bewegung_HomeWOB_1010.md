@@ -11,7 +11,7 @@ So geht´s:
 
 Abhängig von deiner momentanen Fitness solltest du dir selbst überlegen wie viele Wiederholungen du durchführst. 
 
-Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch herraus.
+Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch heraus.
 
 ![sporti](https://image.freepik.com/vektoren-kostenlos/persoenliche-trainer-konzeptillustration_114360-1552.jpg)
 
