@@ -10,5 +10,5 @@ So geht’s: Klicke einfach hier auf den Link und tanze die Choreografie nach!!!
 
 ![Bild](https://image.freepik.com/vektoren-kostenlos/schattenbilder-von-den-leuten-die-auf-einen-schmutzhintergrund-tanzen_1048-8420.jpg)
 
-Bild: kjpargeter, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/schattenbilder-von-den-leuten-die-auf-einen-schmutzhintergrund-tanzen_2734573.htm#page=1&query=tanzen&position=5)
+Bild: kjpargeter, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/schattenbilder-von-den-leuten-die-auf-einen-schmutzhintergrund-tanzen_2734573.htm#page=1&query=tanzen&position=5), Datum: 22.03.2020
 
