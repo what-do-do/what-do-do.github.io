@@ -50,19 +50,8 @@ paar interessante Challenges für dich zusammengestellt. Bla bla bla.
   </div>
 </div> 
 
-<label for="age">Wähle deine Kategorie</label>
-
-<select id="age">
-  <option value="Elt">Eltern</option>
-  <option value="Jug">Jugend</option>
-  <option value="Erw">Erwachsene</option>
-  <option value="Fam">Familie/WG/Paar</option>
-</select>
-
 <script src="./src/getChallenge.js" type="text/javascript"></script>
 <script src="./src/getUrl.js" type="text/javascript"></script>
-
-<button type="button" onclick="getChallenge();">Wähle deine Challenge</button>
 
 <script type="text/javascript">
   var postsHref = 
