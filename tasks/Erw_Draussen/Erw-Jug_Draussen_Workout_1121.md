@@ -1,0 +1,17 @@
+**Work Work Work out!**
+
+So lang dauert's: 60-120 Minuten
+
+Das brauchst du: Dich und wenn du magst eine App
+
+So geht’s: Schnapp dir deine Sportschuhe, vielleicht eine Matte und suche dir einen schönen Platz im Park. Wenn du möchtest kannst du dein Workout auch mit einer App durchführen.
+
+[Ab zu freeletics!!](https://www.freeletics.com/de/)
+
+[Ab zu 7!!](https://play.google.com/store/apps/details?id=com.popularapp.sevenmins&hl=de)
+
+[Ab zum Yoga!!](https://play.google.com/store/apps/details?id=com.dailyyoga.inc&hl=de)
+
+![Yoga](https://image.freepik.com/vektoren-kostenlos/yoga-ikonen-sammlung_1251-3.jpg)
+
+Bild: dreamwaves, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/yoga-ikonen-sammlung_971845.htm#page=1&query=yoga&position=16), Datum: 21.03.2020

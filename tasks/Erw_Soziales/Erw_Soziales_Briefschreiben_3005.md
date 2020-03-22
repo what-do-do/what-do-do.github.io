@@ -1,6 +1,6 @@
 **Mir geht es gut, ich hoffe dir auch.**
 
-So lang dauert’s: 30-60Minuten
+So lang dauert’s: 30 bis 60 Minuten
 
 Das brauchst du: Ein Blatt Papier mit Umschlag und einen Stift
 

@@ -1,0 +1,19 @@
+**Erinnerst du dich noch, wann du zuletzt den Kühlschrank gesäubert hast?**
+
+So lang dauert's: 10 - 30 Minuten
+
+Das brauchst du: Putzschwamm
+
+So geht's:
+1. Schalte deinen Kühlschrank aus.
+2. Nimm alle Lebensmittel heraus und verpacke sie gut. 
+3. Nimm alle beweglichen Teile wie Ablagen und Schubladen heraus und säubere sie gründlich. 
+4. Auch die Innenwände gründlich abwischen. 
+5. Reinige die Ablauföffnung deines Kühlschranks an der Rückwand mit einem Wattestäbchen.
+6. Säubere auch alle Dichtungen der Türen. 
+7. Lass die Kühlschranktür geöffnet, damit der Kühlschrank auslüften kann. 
+8. Danach schaltest du den Kühlschrank erneut ein und räumst die Lebensmittel ein. 
+
+![Kühlschrank](https://image.freepik.com/vektoren-kostenlos/kuehlschrank-mit-lebensmitteln_23-2147514472.jpg)
+
+Bild: freepik, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/kuehlschrank-mit-lebensmitteln_796412.htm#page=1&query=Kühlschrank&position=33), Datum: 22.03.2020
