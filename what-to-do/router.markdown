@@ -65,6 +65,6 @@ layout: default
             }
         }
     } 
-    window.location.assign('../'nextPost(window.location.hash.substr(1)).substr(1)+window.location.hash);
+    window.location.assign('../'+nextPost(window.location.hash.substr(1)).substr(1)+window.location.hash);
 </script>
 </head>
