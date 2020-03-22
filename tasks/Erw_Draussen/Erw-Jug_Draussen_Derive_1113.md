@@ -7,3 +7,7 @@ Das brauchst du: Dich und die derive-App
 So geht's: Lade dir die App unter diesem [Link](http://deriveapp.com/s/v2/) herunter. Hier wirst du nicht auf dem kürzesten Weg zu deinem eingegebenen Ziel geführt, sondern auf etwas andere Weise - ganz zufällig. 
 
 [Ab zum Video!!](http://deriveapp.com/s/v2/)
+
+![Umweg](https://image.freepik.com/vektoren-kostenlos/map-light-konzept-illustration_114360-192.jpg)
+
+Bild: freepik, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/map-light-konzept-illustration_5357380.htm#page=1&query=tour&position=10), Datum: 22.03.2020
