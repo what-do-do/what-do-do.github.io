@@ -41,10 +41,10 @@ paar interessante Challenges für dich zusammengestellt.
   <div class="nexttowheel">
     <label for="age">Wähle deine Kategorie</label>
     <select id="age">
-      <option value="Elt">Eltern</option>
+     <!-- <option value="Elt">Eltern</option> -->
       <option value="Jug">Jugend</option>
       <option value="Erw">Erwachsene</option>
-      <option value="Fam">Familie/WG/Paar</option>
+      <!-- <option value="Fam">Familie/WG/Paar</option> -->
     </select>
     <br>
     <p><button type="button" onclick="getChallenge();">Wähle deine Challenge</button></p>
