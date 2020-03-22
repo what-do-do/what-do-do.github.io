@@ -10,6 +10,6 @@ So geht's: Klicke einfach hier auf den Link und tanze die Choreografie nach!!!
 
 ![Dance](https://cdn.pixabay.com/photo/2018/01/20/18/36/silhouette-3095150_1280.png)
 
-Bild: mohamed_hassan, Pixabay License, [Freepik](https://pixabay.com/vectors/silhouette-dancing-jumping-people-3095150/), Datum: 22.03.2020
+Bild: mohamed_hassan, Pixabay License[https://pixabay.com/vectors/silhouette-dancing-jumping-people-3095150/], Datum 22.03.2020
 
 
