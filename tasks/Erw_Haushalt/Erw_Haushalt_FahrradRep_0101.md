@@ -1,4 +1,4 @@
-**Bring den Drahtesel auf Trapp!** 
+**Bring den Drahtesel auf Trab!** 
 
 So lang dauert´s: Nimm dir mindestens 30 Minuten
 
