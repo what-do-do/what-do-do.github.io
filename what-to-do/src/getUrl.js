@@ -1,3 +1,10 @@
+function getAge() 
+{
+  var e = document.getElementById("age");
+  var age = e.options[e.selectedIndex].value;
+  return age;
+}
+
 function filteredIndices() {
   var fi = [];
   for (var i = 0; i < postsCats.length; i++) {
@@ -21,7 +28,6 @@ function getUrl()
     var postTitle;
     var res = "";
     var fi = filteredIndices();
-    console.log(fi)
     randomIndex = fi[Math.floor(Math.random() * fi.length)]
 
     if (randomIndexUsed.indexOf(randomIndex) == "-1")

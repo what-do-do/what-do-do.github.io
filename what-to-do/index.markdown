@@ -20,16 +20,8 @@ paar interessante Challenges für dich zusammengestellt. Bla bla bla.
   <option value="Fam">Familie/WG/Paar</option>
 </select>
 
-<script>
-function getAge() 
-{
-  var e = document.getElementById("age");
-  var age = e.options[e.selectedIndex].value;
-  return age;
-}
-</script>
-
 <script src="./src/getChallenge.js" type="text/javascript"></script>
+<script src="./src/getUrl.js" type="text/javascript"></script>
 
 <button type="button" onclick="getChallenge();">Wähle deine Challenge</button>
 
@@ -56,5 +48,3 @@ function getAge()
   {% endfor %}
   ];
 </script>
-
-<script src="./src/getUrl.js" type="text/javascript"></script>
