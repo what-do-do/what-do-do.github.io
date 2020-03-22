@@ -5,3 +5,6 @@ So lang dauert's: 60-180 min
 Das brauchst du: nur dich 
 
 So geht’s: mache einen Spaziergang in ein nahegelegenes Waldstück oder in den Park. Sammle kleine Zweige. Zuhause kannst du aus den Zweigen ein Osternest bauen und mit Eiern füllen.
+
+![Nest](https://image.freepik.com/fotos-kostenlos/grosses-osternest-mit-kissen-eier-und-kaninchen_8353-6201.jpg)
+Bild: freepic.diller, Freepik-Lizenz, [Freepik](https://de.freepik.com/fotos-kostenlos/grosses-osternest-mit-kissen-eier-und-kaninchen_2462259.htm#page=1&query=Osternest&position=11)
