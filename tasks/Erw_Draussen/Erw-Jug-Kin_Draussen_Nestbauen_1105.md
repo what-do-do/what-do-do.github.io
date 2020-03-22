@@ -1,6 +1,6 @@
 **Schaffe schaffe, Nestle baue!**
 
-So lang dauert's: 60-180 Minuten
+So lang dauert's: 60 - 180 Minuten
 
 Das brauchst du: Dich 
 
