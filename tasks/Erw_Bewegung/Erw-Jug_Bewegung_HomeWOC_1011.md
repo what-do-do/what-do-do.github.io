@@ -18,7 +18,7 @@ So geht´s:
   
   5. Wiederhole diese Übung 
   
-Abhängig von deiner momentanen Fitness solltest du dir selbst überlegen wie viele Wiederholungen du durchführst. 
+Abhängig von deiner momentanen Fitness solltest du dir selbst überlegen, wie viele Wiederholungen du durchführst. 
 
 Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch heraus.
 
