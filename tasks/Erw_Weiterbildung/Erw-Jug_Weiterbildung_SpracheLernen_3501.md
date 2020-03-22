@@ -2,7 +2,7 @@
 
 So lang dauert's: 90 Minuten (Pro: 3 Stunden)
 
-Das brauchst du: Eine DVD, einen Netflix-Account, YouTube, Apple-TV oder ähnliches
+Das brauchst du: Eine DVD, einen Netflix-Account, YouTube, Apple-TV oder Ähnliches
 
 So geht's: Es gibt viele Wege, eine Sprache zu lernen. Einer davon ist sehr unterhaltsam! Schaue einen Film in einer anderen Sprache an, am besten in der Originalsprache. Das verbessert dein Hörverstehen und deine Aussprache. 
 
