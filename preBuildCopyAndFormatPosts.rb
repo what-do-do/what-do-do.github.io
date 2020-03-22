@@ -2,7 +2,7 @@ require 'find'
 require 'json'
 
 source = './tasks/'
-target = './what-to-do/_posts'
+target = './_posts'
 
 def head(fields)
   res = "---\n"
