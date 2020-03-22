@@ -13,6 +13,6 @@ So geht´s: Ordne deine Lebensmittel in den Kühlschrankfächern entsprechend de
 
 So werden deine Lebensmittel genau richtig gekühlt und halten länger.
 
-Wichtig zu wissen ist außerdem, dass Lebensmittel auch nach Überschreiten des Mindest-Haltbarkeitsdatums noch häufig genießbar sind.
+Wichtig zu wissen ist außerdem, dass Lebensmittel auch nach Überschreiten des Mindesthaltbarkeitsdatums noch häufig genießbar sind.
 
-Ein Naturjoghurt ist beispielsweise nach über einem halben Jahr ungeöffnet im Kühlschrank nach kurzem Rühren noch genauso lecker wie am ersten Tag. 
+Ein Naturjoghurt ist beispielsweise nach über einem halben Jahr ungeöffnet im Kühlschrank nach kurzem Rühren noch genauso lecker wie am ersten Tag. Dies gilt allerdings nicht für alle Lebensmittel. Vertraue auf deine Sinne und schaue [hier](https://www.verbraucherzentrale.de/wissen/lebensmittel/auswaehlen-zubereiten-aufbewahren/mindesthaltbarkeitsdatum-mhd-ist-nicht-gleich-verbrauchsdatum-13452) nach.
