@@ -2,11 +2,11 @@
 layout: post
 title: Test
 ---
-<p><button type="button" class="block" onCLick="window.location.assign('/router.html' + window.location.hash)">Weiter</button></p>
+<p><button type="button" class="block" id="button2" onCLick="window.location.assign('/router.html' + window.location.hash)">Weiter</button></p>
 
 {{ content }}
 
-<p><button type="button" class="block" onCLick="window.location.assign('/router.html' + window.location.hash)">Challenge abschließen</button></p>
+<p><button type="button" class="block" id="button2" onCLick="window.location.assign('/router.html' + window.location.hash)">Challenge abschließen</button></p>
 
 <style>
 .block {
@@ -19,4 +19,14 @@ title: Test
   cursor: pointer;
   text-align: center;
 }
+  #button2{
+  background-color: #205C75; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  }
 </style>
