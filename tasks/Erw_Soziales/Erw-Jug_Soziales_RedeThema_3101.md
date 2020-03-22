@@ -9,4 +9,4 @@ Das Thema eures Gesprächs soll sein: *Was findest du gut an Pinguinen?*.
 
 ![Piguin](https://image.freepik.com/fotos-kostenlos/pinguine-wasservoegeln-arctic_121-56097.jpg)
 
-Bild: pixabay,  Pixaby License, [Freepik](https://de.freepik.com/fotos-kostenlos/pinguine-wasservoegeln-arctic_670645.htm) {21.03.2020}
+Bild: pixabay,  Pixaby License, [Freepik](https://de.freepik.com/fotos-kostenlos/pinguine-wasservoegeln-arctic_670645.htm), Datum: 21.03.2020
