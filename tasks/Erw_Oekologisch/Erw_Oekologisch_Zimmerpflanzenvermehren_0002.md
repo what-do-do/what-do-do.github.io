@@ -20,5 +20,6 @@ Lies vorher aber noch einmal nach, ob sich deine Pflanze auch so vermehren läss
 
 Falls du den Namen deiner Pflanze nicht kennst, kannst du sie mit der App PlantNet ganz einfach bestimmen. 
 
+
 ![Bild von  auf Pixabay](https://cdn.pixabay.com/photo/2015/05/31/15/04/houseplants-792091_1280.jpg)
 Bild: kaboompics, Pixabay License, [Pixabay](https://pixabay.com/de/photos/zimmerpflanzen-pflanzen-blumen-792091/), Datum: 21.03.2020
