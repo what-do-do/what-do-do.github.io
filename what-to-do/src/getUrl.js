@@ -10,15 +10,15 @@ function getUrl()
     var postHref;
     var postTitle;
     var res = "";
-    randomIndex = Math.floor(Math.random() * postsHref.length);
+    var fi = filteredIndices();
+    randomIndex = fi[Math.floor(Math.random() * fi.length)]
 
     if (randomIndexUsed.indexOf(randomIndex) == "-1")
     {
       postHref = postsHref[randomIndex];
-      console.log(postsHref)
-        randomIndexUsed.push(randomIndex);
+      randomIndexUsed.push(randomIndex);
       counter++;
-      return postHREF
+      return postHref
     }
   }
 } 

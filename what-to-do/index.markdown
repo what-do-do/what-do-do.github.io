@@ -33,6 +33,15 @@ function getAge()
 
 <button type="button" onclick="getChallenge();">Wähle deine Challenge</button>
 
+<script>
+function getAge() 
+{
+  var e = document.getElementById("age");
+  var age = e.options[e.selectedIndex].value;
+  return age;
+}
+</script>
+
 <script type="text/javascript">
   var postsHref = 
   [
@@ -44,7 +53,7 @@ function getAge()
   var postsCats = 
   [
   {% for post in site.posts %}
-    [{% for scat in post.categories %}"{{ cat }}"{% unless forloop.last %},{% endunless %}{% endfor %}]
+    [{% for cat in post.categories %}"{{ cat }}"{% unless forloop.last %},{% endunless %}{% endfor %}]
   {% unless forloop.last %},{% endunless %}
   {% endfor %}
   ];
@@ -55,6 +64,18 @@ function getAge()
   {% unless forloop.last %},{% endunless %}
   {% endfor %}
   ];
+</script>
+
+<script>
+function filteredIndices() {
+  var fi = [];
+  for (var i = 0; i < postsCats.length; i++) {
+    if (postsCats[i].includes(getAge())) {
+      fi.push(i)
+    }
+  }
+  return fi;
+}
 </script>
 
 <script src="./src/getUrl.js" type="text/javascript"></script>
