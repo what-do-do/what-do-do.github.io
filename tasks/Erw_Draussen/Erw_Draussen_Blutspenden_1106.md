@@ -1,6 +1,6 @@
 **Rette Leben - spende Blut!**
 
-So lang dauert's: 40-120 Minuten
+So lang dauert's: 40 - 120 Minuten
 
 Das brauchst du: etwas Mut und Blut
 
