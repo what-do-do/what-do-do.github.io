@@ -28,11 +28,12 @@ layout: default
   }
   </style>
 </head>
-# Motivierende Überschrift
+
+# What to do
 
 Dies ist ein historischer Moment. Deine Chance ist gekommen, die ganze Welt zum besseren zu verändern.
 Alles, was du tun musst ist, daheim zu bleiben. Um dir diese Zeit etwas zu vereinfachen, haben wir ein
-paar interessante Challenges für dich zusammengestellt. Bla bla bla.
+paar interessante Challenges für dich zusammengestellt.
  <div class="row">
   <div class="wheel">
      <img src="https://imgur.com/download/Gicyf3F" alt="wheel"> 
