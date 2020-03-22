@@ -21,6 +21,7 @@ function getUrl()
     var postTitle;
     var res = "";
     var fi = filteredIndices();
+    console.log(fi)
     randomIndex = fi[Math.floor(Math.random() * fi.length)]
 
     if (randomIndexUsed.indexOf(randomIndex) == "-1")
