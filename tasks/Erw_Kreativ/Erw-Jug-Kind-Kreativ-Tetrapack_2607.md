@@ -5,10 +5,10 @@
  Das brauchst du: Ein leeres Tetrapack
  
  So geht´s: 
-1. oberen Verschlussbereich abschneiden
-1.  Verpackung knüllen/ „kneten“
-1. äußerere, bedruckte Schicht abreißen
-1. obere Kanten falten/umschlagen
+1. Oberen Verschlussbereich abschneiden
+1.  Verpackung knüllen/„kneten“
+1. Äußerere, bedruckte Schicht abreißen
+1. Obere Kanten falten/umschlagen
 
 Nun kannst du deinen neuen wasserundurchlässigen Behälter zum Beispiel bepflanzen.
 
