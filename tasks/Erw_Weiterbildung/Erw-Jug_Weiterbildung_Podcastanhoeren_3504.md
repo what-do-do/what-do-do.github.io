@@ -1,8 +1,8 @@
 **Podcast anhören**
 
-So lang dauert’s: je nach Podcast
+So lang dauert’s: Je nach Podcast
 
-Das brauchst du: einen Podcast und Boxen
+Das brauchst du: Einen Podcast und Boxen
 
 So geht’s: 
 Such dir einen Podcast aus und höre ihn dir an. 
