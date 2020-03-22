@@ -6,6 +6,6 @@ Das brauchst du: Dich und dein Handy oder deinen Laptop.
 
 So geht´s: Suche einfach bei YouTube deine Lieblingssong, drück auf Play und leg los.
 
-![DanceandSing](https://image.freepik.com/fotos-kostenlos/kreative-person-steht-sie-singt-und-tanzt-maedchen-haelt-linke-hand-auf-der-stirn-frau-hat-gruenen-stock-in-der-rechten-hand-sie-putzt-mit-spass_152404-4466.jpg)
+![Lieblingssong](https://image.freepik.com/fotos-kostenlos/frau-in-den-kopfhoerern-zu-hause-singen-und-tanzen_1163-4418.jpg)
 
-Bild: bilahata, Freepik-Lizenz, [Freepik](https://de.freepik.com/fotos-premium/kreative-person-steht-sie-singt-und-tanzt-maedchen-haelt-linke-hand-auf-der-stirn-frau-hat-gruenen-stock-in-der-rechten-hand-sie-putzt-mit-spass_7212484.htm#page=1&query=dancing%20alone&position=5), Datum: 22.03.2020
+Bild: freepik, Freepik-Lizenz, [Freepik](https://de.freepik.com/fotos-kostenlos/frau-in-den-kopfhoerern-zu-hause-singen-und-tanzen_3938859.htm#page=1&query=sing%20and%20dance%20&position=4), Datum: 22.03.2020
