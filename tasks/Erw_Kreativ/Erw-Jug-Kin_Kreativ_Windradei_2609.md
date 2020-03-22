@@ -11,5 +11,5 @@ So geht's:
 3. Falte die einzelnen Schichten aufeinander, so dass sich ein Ei ergibt
 4. Faden dran, aufhängen und sehen, wie selbst ein leichter Luftzug diese Ei dreht
 
-![Bild](https://cdn.pixabay.com/photo/2017/08/09/10/42/hotel-rooms-2614141_1280.jpg)
-Bild: LS-Foto, Pixaby-Lizenz, [Pixabay](https://pixabay.com/de/photos/hotelzimmer-hamburg-elbphilharmonie-2614141/), Datum: 21.03.2020
+![Bild](https://image.freepik.com/fotos-kostenlos/windrad-mit-den-regenbogenfarben_23-2148147709.jpg)
+Bild: freepik, Freepik-Lizenz, [Freepik](https://de.freepik.com/fotos-kostenlos/windrad-mit-den-regenbogenfarben_4868255.htm#page=1&query=windrad&position=11), Datum: 22.03.2020
