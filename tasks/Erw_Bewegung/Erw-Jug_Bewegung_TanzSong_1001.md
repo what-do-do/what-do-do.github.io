@@ -8,4 +8,4 @@ So geht´s: Suche einfach bei YouTube deine Lieblingssong, drück auf Play und l
 
 ![DanceandSing](https://image.freepik.com/fotos-kostenlos/kreative-person-steht-sie-singt-und-tanzt-maedchen-haelt-linke-hand-auf-der-stirn-frau-hat-gruenen-stock-in-der-rechten-hand-sie-putzt-mit-spass_152404-4466.jpg)
 
-Bild: freepik, Freepik-Lizenz, [Freepik](https://de.freepik.com/fotos-premium/kreative-person-steht-sie-singt-und-tanzt-maedchen-haelt-linke-hand-auf-der-stirn-frau-hat-gruenen-stock-in-der-rechten-hand-sie-putzt-mit-spass_7212484.htm#page=1&query=dancing%20alone&position=5), Datum: 22.03.2020
+Bild: bilahata, Freepik-Lizenz, [Freepik](https://de.freepik.com/fotos-premium/kreative-person-steht-sie-singt-und-tanzt-maedchen-haelt-linke-hand-auf-der-stirn-frau-hat-gruenen-stock-in-der-rechten-hand-sie-putzt-mit-spass_7212484.htm#page=1&query=dancing%20alone&position=5), Datum: 22.03.2020
