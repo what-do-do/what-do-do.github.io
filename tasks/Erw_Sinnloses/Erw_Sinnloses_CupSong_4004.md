@@ -1,6 +1,6 @@
 **Cup Song lernen**
 
-So lang dauert's: 5 bis 20 Minuten
+So lang dauert's: 5 - 20 Minuten
 
 Das brauchst du: Einen Browser mit Internetzugang und einen *Cup*
 
