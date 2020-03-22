@@ -24,4 +24,4 @@ Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch hera
 
 ![Bauchmuskeln](https://cdn.pixabay.com/photo/2017/04/22/10/15/sport-2250970_1280.jpg)
 
-Bild:  Pixabay License, [Pixabay](https://pixabay.com/de/photos/sport-training-bauchmuskeln-sixpack-2250970/) {21.03.2020}
+Bild:  Pixabay License, [Pixabay](https://pixabay.com/de/photos/sport-training-bauchmuskeln-sixpack-2250970/), Datum: 21.03.2020
