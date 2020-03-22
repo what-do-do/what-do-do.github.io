@@ -18,5 +18,6 @@ Vergiss Schritt 1.-7. und lass deiner Kreativität freien Lauf.
 
 Solltest du vorhaben, deinen Entwurf digital zu entwerfen, probier es [hiermit](https://www.roomsketcher.de/).
 
-![image alt]("https://cdn.pixabay.com/photo/2019/07/07/06/29/house-floorplan-4321812_960_720.jpg")
+![Traumhaus](https://cdn.pixabay.com/photo/2019/07/07/06/29/house-floorplan-4321812_960_720.jpg)
+
 *Bild: Pixabay (House-floorplan), [Quelle: Pixabay](https://cdn.pixabay.com/photo/2019/07/07/06/29/house-floorplan-4321812_960_720.jpg), Datum: 21.03.2020*
