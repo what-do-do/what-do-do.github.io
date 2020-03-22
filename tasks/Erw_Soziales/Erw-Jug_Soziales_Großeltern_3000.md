@@ -19,6 +19,6 @@ Ideen für Gesprächsthemen:
 
 ![image alt](https://cdn.pixabay.com/photo/2018/08/09/10/46/phone-3594206_1280.jpg)
 
-*Bild: Alexas_Fotos, Pixabay Licence, [Pixabay](https://pixabay.com/photos/phone-old-year-built-1955-bakelite-3594206/), Datum: 21.03.2020*
+Bild: Alexas_Fotos, Pixabay Licence, [Pixabay](https://pixabay.com/photos/phone-old-year-built-1955-bakelite-3594206/), Datum: 21.03.2020
 
 
