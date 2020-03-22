@@ -29,22 +29,32 @@ function getAge()
 }
 </script>
 
-<script>
-function getChallenge()
-{
-  var e = document.getElementById("age");
-  var strUser = e.options[e.selectedIndex].value;
-  var url = "/what-to-do.github.io"+getUrl();
-  console.log(url);
-  window.location.assign(url);
-}
-</script>
+<script src="./src/getChallenge.js" type="text/javascript"></script>
 
 <button type="button" onclick="getChallenge();">Wähle deine Challenge</button>
 
 <script type="text/javascript">
-  var postsHREF = [{% for post in site.posts %}"{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
-  var postsTitle = [{% for post in site.posts %}"{{ post.title }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+  var postsHref = 
+  [
+  {% for post in site.posts %}
+  "{{ post.url }}"
+  {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ];
+  var postsCats = 
+  [
+  {% for post in site.posts %}
+    [{% for scat in post.categories %}"{{ cat }}"{% unless forloop.last %},{% endunless %}{% endfor %}]
+  {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ];
+  var postsScats = 
+  [
+  {% for post in site.posts %}
+    [{% for scat in post.subcategories %}"{{ scat }}"{% unless forloop.last %},{% endunless %}{% endfor %}]
+  {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ];
 </script>
 
 <script src="./src/getUrl.js" type="text/javascript"></script>

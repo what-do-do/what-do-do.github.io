@@ -7,15 +7,15 @@ function getUrl()
   while (counter < numberOfPosts)
   {
     var randomIndex;
-    var postHREF;
+    var postHref;
     var postTitle;
     var res = "";
-    randomIndex = Math.floor(Math.random() * postsHREF.length);
+    randomIndex = Math.floor(Math.random() * postsHref.length);
 
     if (randomIndexUsed.indexOf(randomIndex) == "-1")
     {
-      postHREF = postsHREF[randomIndex];
-      console.log(postsHREF)
+      postHref = postsHref[randomIndex];
+      console.log(postsHref)
         randomIndexUsed.push(randomIndex);
       counter++;
       return postHREF
