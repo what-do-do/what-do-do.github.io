@@ -19,3 +19,7 @@ So geht’s:
 2. Danach die Bananenwürfel mit dem Vanillemark unter die Quarkmasse heben und den Honig einrühren.
 
 3. Wenn du möchtest, kannst du noch gehackte Nüsse, andere Früchte oder Minze hinzufügen. Lass es dir schmecken :) 
+
+![Bananen](https://image.freepik.com/fotos-kostenlos/reife-gelbe-bananen-im-weidenkorb-am-obstmarktspeicher_23-2148209788.jpg)
+
+Bild: freepik, Freepik-Lizenz, [Freepik](https://de.freepik.com/fotos-kostenlos/reife-gelbe-bananen-im-weidenkorb-am-obstmarktspeicher_5028397.htm#query=bananen&position=12), Datum: 22.03.2020
