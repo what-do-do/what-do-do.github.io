@@ -26,5 +26,5 @@ Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch hera
 
 ![Kniebeuge](https://image.freepik.com/fotos-kostenlos/exemplarplatzfrau-die-uebungen-tut_23-2148435355.jpg)
 
-Bild: freepik, Freepik-Lizenz, [Freepik](https://de.freepik.com/fotos-kostenlos/exemplarplatzfrau-die-uebungen-tut_6874704.htm#page=3&query=sport&position=31) {21.03.2020}
+Bild: freepik, Freepik-Lizenz, [Freepik](https://de.freepik.com/fotos-kostenlos/exemplarplatzfrau-die-uebungen-tut_6874704.htm#page=3&query=sport&position=31), Datum: 21.03.2020
 
