@@ -9,4 +9,4 @@ So geht's: Lust mit wenig Aufwand ein wenig kreativ zu werden? Wie wäre es mit 
 
 ![Collage](https://image.freepik.com/vektoren-kostenlos/kuenstlerische-moodboard-collage-mit-bildern_79603-772.jpg)
 
-Bild: freepik, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/kuenstlerische-moodboard-collage-mit-bildern_6600738.htm#page=1&query=collage&position=14), Datum: 22.03.2020
+Bild: coolvector, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/kuenstlerische-moodboard-collage-mit-bildern_6600738.htm#page=1&query=collage&position=14), Datum: 22.03.2020
