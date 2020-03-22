@@ -17,3 +17,5 @@ https://www.verbraucherservice-bayern.de/themen/umwelt/fasten-fuer-die-umwelt
 Du tust nicht nur Gutes für deine digitalen Strukturen, sondern auch für die Umwelt.
 
 DATEN = C02 (Energieverbrauch und Equipment) 
+![Digital](https://cdn.pixabay.com/photo/2016/02/07/21/03/computer-1185626_1280.jpg)
+Bild:janeb13, Pixabay Lisence[https://pixabay.com/de/users/janeb13-725943/]{22.03.2020}
