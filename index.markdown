@@ -31,7 +31,7 @@ layout: default
 
 # What to do
 
-Dies ist ein historischer Moment. Deine Chance ist gekommen, die ganze Welt zum besseren zu verändern.
+Dies ist ein historischer Moment. Deine Chance ist gekommen, die ganze Welt zu verbesseren.
 Alles, was du tun musst ist, daheim zu bleiben. Um dir diese Zeit etwas zu vereinfachen, haben wir ein
 paar interessante Challenges für dich zusammengestellt.
  <div class="row">
