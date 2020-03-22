@@ -2,7 +2,7 @@
 
 Wie lang dauert´s: 30 Minuten
 
-Das brauchst du: Ein Kartendecl und dieses [Video](https://www.youtube.com/watch?v=948TcjBGvn0)
+Das brauchst du: Ein Kartendeck und dieses [Video](https://www.youtube.com/watch?v=948TcjBGvn0)
 
 So geht´s: Guck dir das Video an und übe fleißig, damit du deine Freunde überraschen kannst.
 
