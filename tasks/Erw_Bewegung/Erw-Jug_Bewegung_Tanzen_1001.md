@@ -4,7 +4,7 @@ So lang dauert's: 5 Minuten
 
 Das brauchst du: Dich und dein Handy oder deinen Laptop.
 
-So geht´s: Suche einfach bei YouTube deine Lieblingssong, drück auf Play und leg los.
+So geht's: Suche einfach bei YouTube deine Lieblingssong, drück auf Play und leg los.
 
 ![Lieblingssong](https://image.freepik.com/fotos-kostenlos/frau-in-den-kopfhoerern-zu-hause-singen-und-tanzen_1163-4418.jpg)
 
