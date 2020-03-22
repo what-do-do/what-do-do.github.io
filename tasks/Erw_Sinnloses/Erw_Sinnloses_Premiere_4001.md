@@ -11,6 +11,6 @@ Jetzt Premieren erleben! z.B. auf [Underviewed](http://underviewed.com) oder auf
 
 ![image alt](https://live.staticflickr.com/53/155918164_58c2d349d6_k.jpg)
 
-Bild: Thomas Hawk (The Calm After the Show),[Flickr](https://www.flickr.com/photos/thomashawk/155918164), Datum: 21.03.2020
+Bild: Thomas Hawk (The Calm After the Show), [Flickr](https://www.flickr.com/photos/thomashawk/155918164), Datum: 21.03.2020
 
 
