@@ -1,7 +1,7 @@
 **Scherben bringen Glück**
 
-So lang dauert's: 10-60 min
+So lang dauert's: 10-60 Minuten
 
 Das brauchst du: eine Schachtel und eventuell Handschuhe
 
-So geht’s: laufe durch die Straßen deiner Stadt und sammle Glasscherben ein. So schützt du Tiere und Fahrradreifen.
+So geht’s: laufe durch die Straßen deiner Stadt und sammle Glasscherben ein. So schützt du Tiere und Fahrradreifen. Pass aber bitte auf :) 
