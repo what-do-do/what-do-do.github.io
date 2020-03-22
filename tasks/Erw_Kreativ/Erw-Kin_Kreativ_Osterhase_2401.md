@@ -1,4 +1,4 @@
-**Oster Deko für Zuhause**
+**Osterdeko für Zuhause - zu jeder Jahreszeit spaßig**
 
 So lang dauert’s: 10 Minuten
 
