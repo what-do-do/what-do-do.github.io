@@ -9,4 +9,4 @@ wie du sie komplett sauber kriegst – auch hinten, unten und dazwischen. Sie wi
 
 ![Bild von Tama66 auf Pixabay](https://cdn.pixabay.com/photo/2019/09/09/19/32/space-4464470__480.jpg)
 
-Bild: Tama66, Pixaby-Lizenz, [Pixabay](https://pixabay.com/de/photos/raum-villa-zimmer-architektur-haus-4464470/) {21.03.2020}
+Bild: Tama66, Pixaby-Lizenz, [Pixabay](https://pixabay.com/de/photos/raum-villa-zimmer-architektur-haus-4464470/), Datum: 21.03.2020
