@@ -10,4 +10,4 @@ Faden dran und sehen wie selbst ein leichter Luftzug diese Ei dreht.
 
 Das Bild zeigt das ähnliche Prinzip.
 ![Ei](https://cdn.pixabay.com/photo/2012/10/16/15/50/windspiel-61743_1280.jpg)
-Bild:Hans, Pixabay Lisence[https://pixabay.com/de/photos/windspiel-wind-windkraft-farben-61743/]
+Bild:Hans, [Pixabay Lisence](https://pixabay.com/de/photos/windspiel-wind-windkraft-farben-61743/), Datum: 22.03.2020
