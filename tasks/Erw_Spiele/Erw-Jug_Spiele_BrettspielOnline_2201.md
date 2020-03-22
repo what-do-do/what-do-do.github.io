@@ -10,4 +10,5 @@ Auf beispielsweise [dieser Seite](https://www.brettspielnetz.de/) oder [hier](ht
 
 ![Bild](https://image.freepik.com/vektoren-kostenlos/brettspiele-isometrische-icons-set_1284-26281.jpg)
 
-Bild: macrovector, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/brettspiele-isometrische-icons-set_6438637.htm#page=1&query=Spiele&position=1)
+Bild: macrovector, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/brettspiele-isometrische-icons-set_6438637.htm#page=1&query=Spiele&position=1), Datum: 22.03.2020
+
