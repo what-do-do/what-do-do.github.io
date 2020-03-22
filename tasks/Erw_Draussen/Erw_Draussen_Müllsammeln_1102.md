@@ -1,6 +1,6 @@
 **Welt retten - starte direkt vor deiner Tür!**
 
-So lang dauert's: 10-60 Minuten
+So lang dauert's: 10 - 60 Minuten
 
 Das brauchst du: einen Sack und eventuell Handschuhe
 
