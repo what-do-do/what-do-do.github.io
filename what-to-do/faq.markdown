@@ -33,3 +33,6 @@ Weitere psychologische Hinweise gibt es [hier](http://www.bundesheer.at/archiv/a
 ## Kann ich eigene Challenges einreichen?
 Dieses Feature ist bisher nicht in die Website integriert, allerdings kannst du uns eine [Mail](whattodo@yqty.de) oder auf [Twitter](https://twitter.com/what_two_do) schreiben.
 Dann kann deine Idee reviewed und gegebenenfalls eingefügt werden.
+
+## Ich bekomme immer wieder die gleiche Challenge, mache ich etwas falsch?
+Die Challenge, die dir gezeigt wird jedes mal zufällig aus dem gesamten Pool von Challenges der gewählten Kategorie ausgewählt. Auch wenn es sehr unwahrscheinlich ist, kann es dabei passieren, dass die gleiche Challenge wieder auftritt. Probiere es einfach nocheinmal!
