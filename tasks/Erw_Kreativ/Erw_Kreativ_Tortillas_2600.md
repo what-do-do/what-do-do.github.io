@@ -14,7 +14,7 @@ Das brauchst du: Für eine Portion
 
 So geht's: 
 
-1. Vermische Schmand, Crème légère und den Schnittlauch und bestreiche damit den Tortilla
+1. Vermische Schmand, Crème légère und den Schnittlauch und bestreiche damit die Tortilla
 
 2. Schmecke die Mischung mit etwas Salz und Pfeffer ab. Danach kannst du die Schinkenwürfel auf den Wrap hinzugeben. 
 
