@@ -9,7 +9,7 @@ So geht´s:
 2. Rutsche nun mit geradem Rücken an der Wand so weit hinunter, bis deine Oberschenkel waagerecht zum Boden sind.
 3. Halte diese Position nun so lange wie möglich.
 
-Abhängig von deiner momentanen Fitness solltest du dir selbst überlegen wie viele Wiederholungen du durchführst. 
+Abhängig von deiner momentanen Fitness solltest du dir selbst überlegen, wie viele Wiederholungen du durchführst. 
 
 Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch heraus.
 
