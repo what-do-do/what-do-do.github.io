@@ -1,6 +1,6 @@
 **Wikipedia-Eintrag endlich lesen**
 
-So lang dauert’s: Je nach Eintrag 5 bis 10 Minuten
+So lang dauert’s: Je nach Eintrag 5 - 10 Minuten
 
 Das brauchst du: www.wikipedia.de
 
