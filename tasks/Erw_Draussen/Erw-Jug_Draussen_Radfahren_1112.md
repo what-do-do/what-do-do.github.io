@@ -1,8 +1,8 @@
 **Unterwegs auf zwei Rädern**
 
-So lang dauert's: 30-90 Minuten
+So lang dauert's: 30 - 90 Minuten
 
-Das brauchst du: ein Fahrrad
+Das brauchst du: Ein Fahrrad
 
 So geht's: Sind deine Reifen aufgepumpt? Dann schwing dich auf den Sattel und radel los.
 

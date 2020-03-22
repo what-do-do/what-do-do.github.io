@@ -2,7 +2,7 @@
 
 So lange dauert's: 5 Minuten
 
-Das brauchst du: einen Regenschauer und dich 
+Das brauchst du: Einen Regenschauer und dich 
 
 So geht’s: Laufe nach draußen sobald es regnet und tanze 
 

@@ -4,7 +4,7 @@ So lang dauert's: Wie du lustig bist, aber wenigstens eine Minute
 
 Das brauchst du: Dich
 
-So geht's: Lachen entspannt und bewirkt nachweislich, dass Endorphine ausgeschüttet werden und so unsere Stimmung steigt. Fang erstmal an zu Lächeln, auch wenn dir vielleicht gar nicht danach zumute ist. Du kannst auch versuchen, dabei an etwas lustiges zu denken. Versuche nun ein bisschen zu kichern, so wie wenn du etwas schelmisches getan hättest. Geht noch oder? Dann werde jetzt Stück für Stück lauter mit dem Gekichere und gehe schließlich in ein lautes kraftvolles Lachen über. Spüre danach in dich hinein- wie fühlt es sich an? 
+So geht's: Lachen entspannt und bewirkt nachweislich, das Endorphine ausgeschüttet werden und so unsere Stimmung steigt. Fang erstmal an zu Lächeln, auch wenn dir vielleicht gar nicht danach zumute ist. Du kannst auch versuchen, dabei an etwas Lustiges zu denken. Versuche nun ein bisschen zu kichern, als hättest du etwas Schelmisches getan. Geht noch oder? Dann werde jetzt Stück für Stück lauter mit dem Gekichere und gehe schließlich in ein lautes kraftvolles Lachen über. Spüre danach in dich hinein- wie fühlt es sich an? 
 
 ![Smile](https://image.freepik.com/vektoren-kostenlos/laecheln-sie-einfachen-hintergrund_23-2148051318.jpg)
 

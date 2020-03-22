@@ -1,10 +1,14 @@
 **Dreier, dunken oder doch daneben?**
 
-So lang dauert's: 60-120 Minuten
+So lang dauert's: mindestens 15 Minuten
 
-Das brauchst du: Dich
+Das brauchst du: Dich und einen Ball
 
-So geht's: Nimm dir einen Basketball oder einen anderen und laufe zu einem Basketballplatz. Vielleicht hast du auch einen Korb im Innenhof. Jetzt kannst du den besten Dunk üben und dich für die Zeit nach Corona warmspielen.
+So geht's: Nimm dir einen Ball und begebe dich an einen Ort, an dem du nichts kaputt machen kannst und an dem du alleine bist. Vielleicht hast du einen Korb im Innenhof oder einen Garten? Wie lange kannst du den Ball auf deinem Kopf balancieren, bis er herunterfällt? Mach gerne ein Video von deinem Erfolg und schicke es an deine Freunde und Bekannten als Herausforderung - so könnt ihr euch schon mal für die Zeit nach Corona warmspielen und neue Tricks lernen. 
+
+Für weitere Inspirationen für Fußballtricks geht auf diesen [Link](https://www.youtube.com/watch?v=dWIqldH71lI). 
+
+Falls du einen Hacky Sack hast, schau [hier](https://www.youtube.com/watch?v=_MfoxBPT-YY) mal rein.
 
 ![Basketball](https://image.freepik.com/vektoren-kostenlos/hand-gezeichnet-basketballkorb-hintergrund_23-2147613511.jpg)
 

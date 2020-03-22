@@ -1,18 +1,20 @@
-**Richtige Laagerung für Längere Haltbarkeit**
+**Richtige Lagerung für längere Haltbarkeit**
 
 So lang dauert´s: 30 Minuten
 
 Das brauchst du: Dich und diese Liste
 
-1. Gemüsefach: Salat, gemüse, Früchte
-1. Unteres fach: Fisch, Fleisch, Wurst, Wintergemüse, Obst
-1. Mittleres Fach: Milchprodukte, Käse, Milch, Sahne, Kochfett, Joghurt, feinkost, bereits Zubereitetes.
-1. Oberes Fach: Getränke, Käse, Eingemachtes.
+1. Gemüsefach: Salat, Gemüse, Früchte
+1. Unteres Fach: Fisch, Fleisch, Wurst, Wintergemüse, Obst
+1. Mittleres Fach: Milchprodukte, Käse, Milch, Sahne, Kochfett, Joghurt, Feinkost, bereits Zubereitetes
+1. Oberes Fach: Getränke, Käse, Eingemachtes
 
-So geht´s: Ordne deine Lebensmittel in den Kühlschrankfächern so das sie zu den Kategorien der Liste.
+So geht´s: Ordne deine Lebensmittel in den Kühlschrankfächern entsprechend den Kategorien der Liste.
 
-So werden deine Lebensmittel genau richtig gekühlt und halten maximal lange.
+So werden deine Lebensmittel genau richtig gekühlt und halten länger.
 
-Wichtig zu wissen ist außerdem, dass wenn das Haltbarkeitsdatum überschritten ist die Lebensmittel nihct zwangsläufig nicht mehr genißbar sind.
+Wichtig zu wissen ist außerdem, dass Lebensmittel auch nach Überschreiten des Mindesthaltbarkeitsdatums noch häufig genießbar sind.
 
-Ein Naturjoghurt ist beispielsweise nach über einem halben Jahr ungeöffnet im Kühlschrank nach kurzem rühren noch genauso lecker wie am ersten Tag.
+Ein Naturjoghurt ist beispielsweise nach über einem halben Jahr ungeöffnet im Kühlschrank nach kurzem Rühren noch genauso lecker wie am ersten Tag. Dies gilt allerdings nicht für alle Lebensmittel. Vertraue auf deine Sinne und schaue im Zweifel [hier](https://www.verbraucherzentrale.de/wissen/lebensmittel/auswaehlen-zubereiten-aufbewahren/mindesthaltbarkeitsdatum-mhd-ist-nicht-gleich-verbrauchsdatum-13452) nach.
+![Kühlschrank](https://cdn.pixabay.com/photo/2016/11/29/07/44/bottles-1868175_1280.jpg)
+Bild: Pexels, [Pixabay License](https://pixabay.com/de/photos/flaschen-lebensmittel-gallone-1868175/), Datum: 21.03.2020

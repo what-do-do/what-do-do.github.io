@@ -1,0 +1,13 @@
+**Jedem Zimmer der Wohnung/des Hauses "Hallo" sagen**
+
+So lang dauert’s: Je nach Größe der Wohnung bis zu 10 Minuten
+
+
+Das brauchst du: Dich und sonst nix
+
+
+So geht’s: Hast du schon mal die Zimmer deiner Wohnung begrüßt? Bestimmt nicht. Also musst du das dringend nachholen!
+Gehe jetzt nacheinander in einer beliebligen Reihenfolge in jedes Zimmer deiner Wohnung und sage laut "Hallo Zimmer"! :D
+![Hallo](https://cdn.pixabay.com/photo/2016/05/05/20/13/wave-1374744_1280.jpg)
+Bild:WOLKE108, Pixabay License[https://pixabay.com/de/photos/winken-schatten-fr%C3%B6hlich-gl%C3%BCck-1374744/], Datum: 22.03.2020
+
