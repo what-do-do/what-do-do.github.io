@@ -1,6 +1,6 @@
 **Und rechts herum!**
 
-So lang dauert's: 10-60 Minuten
+So lang dauert's: 10 - 60 Minuten
 
 Das brauchst du: Dich
 
