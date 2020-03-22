@@ -1,19 +1,21 @@
-**Klimaschutz per Mausklick: mach einen digitalen Frühjahrsputz.**
+**Klimaschutz per Mausklick: Mach einen digitalen Frühjahrsputz**
 
-So lang dauert´s: suchst du aus. Zum Start: 10 min. 
+So lang dauert´s: Suchst du aus. Zum Start: 10 min. 
 
 Das brauchst Du: Deinen Rechner oder Smartphone und Bock auf was Neues. 
 
 So geht´s: Daten, die Du nicht mehr brauchst, löschen! 
 
-  1. säubere Mail- und andere Ordner. Nimm dir jeden Tag drei vor, das ist realistisch. Schnelltipp: täglich Papierkörbe löschen. Sinn: ruhende Verschmutzung senken, Energie sparen. 
+  1. Säubere Mail- und andere Ordner. Nimm dir jeden Tag drei vor, das ist realistisch. Schnelltipp: täglich Papierkörbe löschen. Sinn: ruhende Verschmutzung senken, Energie sparen. 
   
-  1. überlege, welche Datenpakete Du nicht mehr auf Deinem Server/Account haben willst: Was nicht ankommt, "kostet" auch kein C02. Beispiel: Newsletter und Push-Meldungen abbestellen, nicht nur wegklicken. Info: Eine E-Mail hat denselben Fußabdruck wie eine Plastiktüte (Umweltbundesamt) 
+  1. Überlege, welche Datenpakete Du nicht mehr auf Deinem Server/Account haben willst: Was nicht ankommt, "kostet" auch kein C02. Beispiel: Newsletter und Push-Meldungen abbestellen, nicht nur wegklicken. Info: Eine E-Mail hat denselben Fußabdruck wie eine Plastiktüte (Umweltbundesamt) 
   
   1. Bleib im think digital green - Modus und finde nach und nach alle "überflüssigen" Daten. Klimaschutz geht auch digital! Lust auf vernetzen? Dann mach das Ganze mit einer anderen Person zusammen, gründe z. B. ein Meetup. Infos zum Loslegen: 
   
 https://www.verbraucherservice-bayern.de/themen/umwelt/fasten-fuer-die-umwelt
 
-Du tust nicht nur gutes für deine digitalen Strukturen sondern auch für die Umwelt.
+Du tust nicht nur Gutes für deine digitalen Strukturen, sondern auch für die Umwelt.
 
 DATEN = C02 (Energieverbrauch und Equipment) 
+![Digital](https://cdn.pixabay.com/photo/2016/02/07/21/03/computer-1185626_1280.jpg)
+Bild:janeb13, Pixabay Lisence[https://pixabay.com/de/users/janeb13-725943/]{22.03.2020}

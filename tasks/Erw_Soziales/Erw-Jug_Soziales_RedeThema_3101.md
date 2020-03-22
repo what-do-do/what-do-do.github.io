@@ -1,0 +1,12 @@
+**Kurz mal Reden mit Skript**
+
+So lang dauert´s: 5 Minuten
+
+Das brauchst du: Ein Telefon oder ein Handy
+
+So geht´s: Sieh in dein Telefon und rufe die dritte Person aus deinem Telefon- oder Whatsappverlauf an.
+Das Thema eures Gesprächs soll sein: *Was findest du gut an Pinguinen?*.
+
+![Piguin](https://image.freepik.com/fotos-kostenlos/pinguine-wasservoegeln-arctic_121-56097.jpg)
+
+Bild: pixabay,  Pixaby License, [Freepik](https://de.freepik.com/fotos-kostenlos/pinguine-wasservoegeln-arctic_670645.htm), Datum: 21.03.2020

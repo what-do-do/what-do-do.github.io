@@ -1,8 +1,8 @@
 **Horoskop selbst gemacht!**
 
-So lang dauert's: 10-60 Minuten
+So lang dauert's: 10 - 60 Minuten
 
-Das brauchst du: einen klaren Himmel bei Nacht
+Das brauchst du: Einen klaren Himmel bei Nacht
 
 So geht’s: Gehe nach draußen, wenn es dunkel geworden ist und schaue den Sternenhimmel an. Welche Sternzeichen kannst du erkennen? Wie stehen die Sterne zueinander? 
 

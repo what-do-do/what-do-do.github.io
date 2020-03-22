@@ -4,7 +4,7 @@ Wie lang dauert´s: 20 Minuten
 
 Das brauchst du: Einen ruhigen Ort und dieses Video
 
-So geht´s: Setzte oder Lege dich bequem hin und Starte dieses [Video](https://www.youtube.com/watch?v=eLhzxcn9bZk)
+So geht´s: Setzte oder Lege dich bequem hin und starte dieses [Video](https://www.youtube.com/watch?v=eLhzxcn9bZk)
 
 ![Entspannung](https://image.freepik.com/vektoren-kostenlos/frau-meditiert-mit-flachen-design_23-2147855381.jpg)
 

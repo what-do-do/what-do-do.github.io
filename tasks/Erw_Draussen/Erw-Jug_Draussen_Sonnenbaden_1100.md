@@ -2,9 +2,9 @@
 
 So lange dauert's: 5 - 50 Minuten
 
-Das brauchst du: nur dich und etwas Sonnenschein
+Das brauchst du: Nur dich und etwas Sonnenschein
 
-So geht’s: ab nach draußen und suche dir dort ein sonniges Plätzchen
+So geht’s: Ab nach draußen und suche dir dort ein sonniges Plätzchen
 
 ![Sonne](https://image.freepik.com/fotos-kostenlos/das-geistige-gebet-ueberreicht-sonnenschein-mit-unscharfem-schoenen-sonnenuntergang_1150-7173.jpg)
 
