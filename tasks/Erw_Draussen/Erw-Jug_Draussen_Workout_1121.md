@@ -1,6 +1,6 @@
 **Work Work Work out!**
 
-So lang dauert's: 60-120 Minuten
+So lang dauert's: 60 - 120 Minuten
 
 Das brauchst du: Dich und wenn du magst eine App
 
