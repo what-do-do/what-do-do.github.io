@@ -1,11 +1,11 @@
 **Wann warst du das letzte Mal bei einer Premiere? Schaue dir Videos an, die noch niemand anderes gesehen hat!**
 
-So lang dauert's: 5-20 Minuten
+So lang dauert's: 5 - 20 Minuten
 
 Das brauchst du: Einen Browser mit Internetzugang 
 
-So geht's: Es gibt verschiedene Internetseiten, die dir Inhalte zusammenstellen, die auf YouTube teilweise noch niemand angesehen hat (noch nicht mal der Urheber). Also jetzt bereit machen für die großen und kleinen Premieren des Internets. 
-*Hinweis: Auch wenn es bestimmte Filter bei YouTube gibt, die dies verhindern sollen, dann könnten einige Videos verstörende Bilder zeigen.* 
+So geht's: Es gibt verschiedene Internetseiten, die dir Inhalte zusammenstellen, die auf YouTube teilweise noch niemand angesehen hat (noch nicht mal der Urheber). Jetzt bereit machen für die großen und kleinen Premieren des Internets. 
+*Hinweis: Auch wenn es bestimmte Filter bei YouTube gibt, die dies verhindern sollen, könnten einige Videos verstörende Bilder zeigen.* 
 
 Jetzt Premieren erleben! z.B. auf [Underviewed](http://underviewed.com)oder auf [PetitTube](https://www.petittube.com)
 
