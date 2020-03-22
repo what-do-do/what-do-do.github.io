@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hilfe & Tipps
-permalink: /tipps/
+permalink: /tipps
 ---
 
 # Nutzungshinweise und Tipps
