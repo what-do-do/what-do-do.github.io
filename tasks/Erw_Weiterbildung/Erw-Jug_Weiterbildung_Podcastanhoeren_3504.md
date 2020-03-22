@@ -2,7 +2,7 @@
 
 So lang dauert’s: Je nach Podcast
 
-Das brauchst du: Einen Podcast und Boxen
+Das brauchst du: Einen Podcast und Boxen oder Kopfhörer
 
 So geht’s: 
 Such dir einen Podcast aus und höre ihn dir an. 
