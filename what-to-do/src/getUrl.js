@@ -1,3 +1,13 @@
+function filteredIndices() {
+  var fi = [];
+  for (var i = 0; i < postsCats.length; i++) {
+    if (postsCats[i].includes(getAge())) {
+      fi.push(i)
+    }
+  }
+  return fi;
+}
+
 function getUrl()
 {
   var randomIndexUsed = [];

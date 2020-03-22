@@ -66,16 +66,4 @@ function getAge()
   ];
 </script>
 
-<script>
-function filteredIndices() {
-  var fi = [];
-  for (var i = 0; i < postsCats.length; i++) {
-    if (postsCats[i].includes(getAge())) {
-      fi.push(i)
-    }
-  }
-  return fi;
-}
-</script>
-
 <script src="./src/getUrl.js" type="text/javascript"></script>
