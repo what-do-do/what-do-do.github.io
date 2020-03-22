@@ -35,9 +35,9 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <p><button type="button" class="block" onCLick="window.location.assign('/router.html' + window.location.hash)">Weiter</button></p>
+    <p><button type="button" class="button" onCLick="window.location.assign('/router.html' + window.location.hash)">Weiter</button></p>
     {{ content }}
-    <p><button type="button" class="block" onCLick="window.location.assign('/router.html' + window.location.hash)">Challenge abschließen</button></p>
+    <p><button type="button" class="button" onCLick="window.location.assign('/router.html' + window.location.hash)">Challenge abschließen</button></p>
   </div>
 
 
@@ -48,16 +48,6 @@ layout: default
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 <style>
-.block {
-  display: block;
-  width: 100%;
-  border: none;
-  background-color: #4CAF50;
-  padding: 14px 28px;
-  font-size: 16px;
-  cursor: pointer;
-  text-align: center;
-}
   .row {
     display: flex;
   }
@@ -68,4 +58,14 @@ layout: default
   .wheel {
     flex: 30%;
   }
-  </style>
+  .button {
+  background-color: #205C75; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  }
+</style>
