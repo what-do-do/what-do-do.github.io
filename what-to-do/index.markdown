@@ -14,6 +14,7 @@ layout: default
       window.location.assign("router.html#"+strUser);
     }
   </script>
+  
   <style>
   .row {
     display: flex;
@@ -49,5 +50,3 @@ paar interessante Challenges für dich zusammengestellt. Bla bla bla.
     
   </div>
 </div> 
-
-
