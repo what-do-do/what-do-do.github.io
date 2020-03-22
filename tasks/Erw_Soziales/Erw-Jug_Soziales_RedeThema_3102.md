@@ -9,5 +9,5 @@ Das Thema eures Gesprächs soll sein: *Wie züchtet man am besten eine Avocado?*
 
 ![Avocado](https://image.freepik.com/fotos-kostenlos/avocado-auf-einem-dunklen-holz-hintergrund_1205-769.jpg?1)
 
-Bild: dashu83 , Freepik-Lizenz, [Freepik](https://de.freepik.com/fotos-kostenlos/avocado-auf-einem-dunklen-holz-hintergrund_1017150.htm#page=1&query=avocado&position=1) {21.03.2020}
+Bild: dashu83 , Freepik-Lizenz, [Freepik](https://de.freepik.com/fotos-kostenlos/avocado-auf-einem-dunklen-holz-hintergrund_1017150.htm#page=1&query=avocado&position=1), Datum: 21.03.2020
 
