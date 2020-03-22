@@ -4,4 +4,7 @@ So lang dauert's: 60-120min
 
 Das brauchst du: nur dich
 
-So geht's: Nimm dir einen Basketball, oder einen anderen und laufen zu einem Basketballplatz. Vielleicht hast du auch einen Korb im Innenhof. Jetzt kannst du den besten Dunken übern und dich für die Zeit nach Corona warmspielen.
+So geht's: Nimm dir einen Basketball, oder einen anderen und laufen zu einem Basketballplatz. Vielleicht hast du auch einen Korb im Innenhof. Jetzt kannst du den besten Dunken üben und dich für die Zeit nach Corona warmspielen.
+
+![Basketball](https://image.freepik.com/vektoren-kostenlos/hand-gezeichnet-basketballkorb-hintergrund_23-2147613511.jpg)
+Bild: freepik, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/hand-gezeichnet-basketballkorb-hintergrund_1081786.htm#query=Basketball&position=34)
