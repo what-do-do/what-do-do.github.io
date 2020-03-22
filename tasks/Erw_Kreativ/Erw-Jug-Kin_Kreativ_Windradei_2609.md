@@ -1,11 +1,11 @@
 **Windrad-Ei - Zero Waste**
 
-So lang dauert´s: 20-30 Minuten
+So lang dauert's: 20 - 30 Minuten
 
 Das brauchst du: Alte Zeitungen oder Verpackungsmaterialien, Nadel und Faden
 Putzutensilien, am besten Fensterreiniger
 
-So geht´s: 
+So geht's: 
 1. Schneide aus alten Zeitungen, Verpackungsmaterialien Ellipsen aus
 2. Lege sie aufeinander und nähe sie in der Mitte in einer Linie von oben nach unten zusammen
 3. Falte die einzelnen Schichten aufeinander, so dass sich ein Ei ergibt
