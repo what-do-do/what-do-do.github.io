@@ -9,3 +9,6 @@ So geht’s: Erweitere deine magischen Fähigkeiten und begeistere deine Freunde
 Eine erste Anleitung findest [hier](https://www.lazarro.de/memory-effekt-kartentrick-fuer-anfaenger/).
 
 Solltest du diese Trick bereits kennen such dir einfach einen anderen aus.
+
+![Karten](https://image.freepik.com/vektoren-kostenlos/vier-asse-poker-karte-abbildung_1017-3850.jpg)
+Bild: starline, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/vier-asse-poker-karte-abbildung_898828.htm#page=1&query=Spielkarten&position=4)
