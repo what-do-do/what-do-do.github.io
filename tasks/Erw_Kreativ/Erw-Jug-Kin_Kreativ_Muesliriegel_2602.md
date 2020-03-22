@@ -24,7 +24,7 @@ So geht’s:
 
 5. Dann wird die Bitterschokolade grob gehackt und anschließend im Wasserbad geschmolzen. Gib dann die flüssige Schokolade auf die Masse und lass sie kalt werden.
 
-6. Sobald die Schokolade ausgehärtet ist, geht es an das Müsliriegelformen. Schneide aus der Masse Riegel von ca 3x4 cm Größe. Lass es dir schmecken!
+6. Sobald die Schokolade ausgehärtet ist, geht es an das Müsliriegelformen. Schneide aus der Masse Riegel von ca. 3x4 cm Größe. Lass es dir schmecken!
 
 ![Müsliriegel](https://image.freepik.com/fotos-kostenlos/trockenfruechte-plaetzchen-und-muesliriegel-auf-hoelzernem-strukturiertem-hintergrund_23-2148026921.jpg)
 
