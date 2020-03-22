@@ -14,4 +14,4 @@ Nun kannst du deinen neuen Wasserundurchlässigen behälter zum Beispiel bepflan
 
 
 ![Tetrapack](https://cdn.pixabay.com/photo/2016/10/02/03/14/milk-carton-1708864_1280.png)
-Bild:janjf93, [Pixabay License](https://pixabay.com/de/vectors/milchkarton-milch-tetrapack-essen-1708864/), Datum: 22.03.2020
+Bild: janjf93, Pixabay-Lizenz, [Pixabay](https://pixabay.com/de/vectors/milchkarton-milch-tetrapack-essen-1708864/), Datum: 22.03.2020
