@@ -1,6 +1,6 @@
 **Balkonien**
 
-So lang dauert's: 30-180 Minuten
+So lang dauert's: 30 - 180 Minuten
 
 Das brauchst du: Planzen, Papier, Holz, ...
 
