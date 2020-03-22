@@ -1,11 +1,11 @@
 **Fotospiel mit Perspektive**
 
-Nimm eine Tasse, male auf den Boden außen ein Gesicht mit Augen, Nase, Mund
+So lang dauert´s: 20-30 Minuten
 
-Male auf die äußere Seitenwand zwei Hasenohren
+Das brauchst du: Tasse und Stift
 
-Trinke und lass dich fotografieren, wie der Tassenboden ein Teil deines Gesicht verdeckt, stattdessen das Gesicht des Tassenbodens zu sehen ist
-verschicke das Foto mit einem Gruß.
+So geht´s:  Nimm eine Tasse, male auf den Boden außen ein Gesicht mit Augen, Nase und Mund. Male auf die äußere Seitenwand zwei Hasenohren.
+Trinke und lass dich fotografieren, wie der Tassenboden ein Teil deines Gesichtes verdeckt, stattdessen das Gesicht des Tassenbodens zu sehen ist. Verschicke das Foto mit einem Gruß.
 
 Stell Dir bei diesem Bild die Bemalung vor und probiere es aus.
 
