@@ -4,7 +4,7 @@ So lang dauert's: Wenige Minuten
 
 Das brauchst du: Dich 
 
-So geht's: Stehen wir unter Stress, verändert sich unsere Amtung. Sie wird flacher und führt dazu, dass weniger Sauerstoff in unseren Körper gelangt. Aus diesem Grund hier eine rhythmische Atemübung zur Entspannung.
+So geht's: Stehen wir unter Stress, verändert sich unsere Atmung. Sie wird flacher und führt dazu, dass weniger Sauerstoff in unseren Körper gelangt. Aus diesem Grund hier eine rhythmische Atemübung zur Entspannung.
 
 1.) Setze oder stelle dich aufrecht hin
 
