@@ -1,6 +1,6 @@
 **Dreier, dunken oder doch daneben?**
 
-So lang dauert's: 60-120 Minuten
+So lang dauert's: 60 - 120 Minuten
 
 Das brauchst du: Dich
 
