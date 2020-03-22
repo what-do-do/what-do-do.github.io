@@ -1,6 +1,6 @@
 **Walken, walken!**
 
-So lang dauert's: 30-90 Minuten
+So lang dauert's: 30 - 90 Minuten
 
 Das brauchst du: nur dich und Laufschuhe
 
