@@ -15,4 +15,4 @@ Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch hera
 
 ![sporti](https://image.freepik.com/vektoren-kostenlos/persoenliche-trainer-konzeptillustration_114360-1552.jpg)
 
-Bild: stories, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/persoenliche-trainer-konzeptillustration_7182228.htm#page=4&query=sport&position=17) {21.03.2020}
+Bild: stories, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/persoenliche-trainer-konzeptillustration_7182228.htm#page=4&query=sport&position=17), Datum: 21.03.2020
