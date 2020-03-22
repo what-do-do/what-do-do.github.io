@@ -23,7 +23,7 @@ end
 iToIndex = { 0 => 'categories', 1 => 'subcategories', 2 => 'title', 3 => 'id'}
 for oriPath in md_file_paths
   i = 0  
-  res = {'layout'=> 'post'}
+  res = {'layout'=> 'postenhanced'}
   path = oriPath[0..(oriPath.length()-4)].split('/')[-1]
   for g1 in path.split('_')
     if i < 2
