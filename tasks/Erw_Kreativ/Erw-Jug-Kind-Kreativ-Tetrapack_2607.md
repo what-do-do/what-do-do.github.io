@@ -2,7 +2,7 @@
  
  So lang dauert´s: 20 Minuten
  
- Das brauchst du: ein leeres Tetrapack
+ Das brauchst du: Ein leeres Tetrapack
  
  So geht´s: 
 1. oberen Verschlussbereich abschneiden
@@ -10,7 +10,7 @@
 1. äußerere, bedruckte Schicht abreißen
 1. obere Kanten falten/umschlagen
 
-Nun kannst du deinen neuen Wasserundurchlässigen behälter zum Beispiel bepflanzen.
+Nun kannst du deinen neuen wasserundurchlässigen Behälter zum Beispiel bepflanzen.
 
 
 ![Tetrapack](https://cdn.pixabay.com/photo/2016/10/02/03/14/milk-carton-1708864_1280.png)
