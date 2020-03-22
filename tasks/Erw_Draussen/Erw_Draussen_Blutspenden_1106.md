@@ -4,4 +4,6 @@ So lang dauert's: 40-120 min
 
 Das brauchst du: etwas Mut und Blut
 
-So geht’s: Informiere dich, wo die nächste Station zum Blutspenden in deiner Nähe ist. Trinke viel Wasser und gehe dort hin.
+So geht’s: Informiere dich, wo die nächste Station zum Blutspenden in deiner Nähe ist.
+[Hier](https://blog.blutspende.de/beitraege/blog/das-erste-mal-zur-blutspende-mit-diesen-tipps-gehen-sie-perfekt-vorbereitet-zu-ihrem-termin) findest du noch Informationen darüber, wie man sich am besten aufs Blutspenden vorberieten kann.
+Trinke viel Wasser und gehe dort hin.
