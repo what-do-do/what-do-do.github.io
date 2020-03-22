@@ -17,4 +17,4 @@ Wichtig zu wissen ist außerdem, dass Lebensmittel auch nach Überschreiten des 
 
 Ein Naturjoghurt ist beispielsweise nach über einem halben Jahr ungeöffnet im Kühlschrank nach kurzem Rühren noch genauso lecker wie am ersten Tag. Dies gilt allerdings nicht für alle Lebensmittel. Vertraue auf deine Sinne und schaue im Zweifel [hier](https://www.verbraucherzentrale.de/wissen/lebensmittel/auswaehlen-zubereiten-aufbewahren/mindesthaltbarkeitsdatum-mhd-ist-nicht-gleich-verbrauchsdatum-13452) nach.
 ![Kühlschrank](https://cdn.pixabay.com/photo/2016/11/29/07/44/bottles-1868175_1280.jpg)
-Bild:Pexels, Pixabay License[https://pixabay.com/de/photos/flaschen-lebensmittel-gallone-1868175/], Datum: 21.03.2020
+Bild:Pexels, [Pixabay License](https://pixabay.com/de/photos/flaschen-lebensmittel-gallone-1868175/), Datum: 21.03.2020
