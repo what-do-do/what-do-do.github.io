@@ -17,6 +17,9 @@ Die Kurve beschreibt dabei die Anzahl der mit [SARS-CoV-2](https://de.wikipedia.
 
 Weil das Gesundheitssystem allerdings nur gewisse Kapazitäten hat ist es wichtig, die Verbreitung zu Verlangsamen und die Zahl der Infizierten zu reduzieren.
 
-Wie? Mit Social Distancing. Also \#StayAtHome, stecke niemanden an und lass dich selbst nicht anstecken und nutze unsere Challenges, um dir die Zeit zu vertreiben.
+Wie? Mit Social Distancing. Also \#StayAtHome, stecke niemanden an und lass dich selbst nicht anstecken und nutze unsere Challenges, um dir die Zeit zu vertreiben! Hilf, die Kurve abzuflachen.
 
 ![Eine verzögerte und flache Kurve, um das Gesundheitssystem nicht zu überlasten](.img/flatten-the-curve.jpg "https://mymodernmet.com/wp/wp-content/uploads/2020/03/flatten-the-curve-thumbnail-1.jpg")
+
+## Warum brauche ich Challenges?
+Hier kommt auch noch Text...
