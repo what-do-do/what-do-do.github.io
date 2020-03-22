@@ -17,4 +17,4 @@ Du tust nicht nur Gutes für deine digitalen Strukturen, sondern auch für die U
 
 DATEN = C02 (Energieverbrauch und Equipment) 
 ![Digital](https://cdn.pixabay.com/photo/2016/02/07/21/03/computer-1185626_1280.jpg)
-Bild:janeb13, Pixabay Lisence,[Pixaby](https://pixabay.com/de/users/janeb13-725943), Datum: 22.03.2020
+Bild:janeb13, Pixabay Lisence, [Pixaby](https://pixabay.com/de/users/janeb13-725943), Datum: 22.03.2020
