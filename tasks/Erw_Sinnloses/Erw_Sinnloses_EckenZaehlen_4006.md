@@ -1,6 +1,6 @@
 **Wie viele Ecken gibt es in deiner Wohnung?**
 
-So lang dauert's: 5 bis 55 Minuten 
+So lang dauert's: 5 - 55 Minuten 
 
 Das brauchst du: Deine Finger zum Zählen, ggf. etwas zum Schreiben
 
