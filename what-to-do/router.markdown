@@ -7,13 +7,41 @@ layout: default
 
 <head>
 <script type="text/javascript">
-    let root = "/what-to-do.github.io";
-    var postsHREF = [{% for post in site.posts %}"{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
-    var postsTitle = [{% for post in site.posts %}"{{ post.title }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+  var postsHref = 
+  [
+  {% for post in site.posts %}
+  "{{ post.url }}"
+  {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ];
+  var postsCats = 
+  [
+  {% for post in site.posts %}
+    [{% for cat in post.categories %}"{{ cat }}"{% unless forloop.last %},{% endunless %}{% endfor %}]
+  {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ];
+  var postsScats = 
+  [
+  {% for post in site.posts %}
+    [{% for scat in post.subcategories %}"{{ scat }}"{% unless forloop.last %},{% endunless %}{% endfor %}]
+  {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ];
 </script>
 
 <script type="text/javascript">
-    function nextPost()
+    function filteredIndices(category) {
+        var fi = [];
+        for (var i = 0; i < postsCats.length; i++) {
+            if (postsCats[i].includes(category)) {
+            fi.push(i)
+            }
+        }
+        return fi;
+    }
+
+    function nextPost(category)
     {
         var randomIndexUsed = [];
         var counter = 0;
@@ -21,22 +49,22 @@ layout: default
 
         while (counter < numberOfPosts)
         {
+            console.log(2);
             var randomIndex;
-            var postHREF;
+            var postHref;
             var postTitle;
             var res = "";
-            randomIndex = Math.floor(Math.random() * postsHREF.length);
-
+            var fi = filteredIndices(category);
+            randomIndex = fi[Math.floor(Math.random() * fi.length)];
             if (randomIndexUsed.indexOf(randomIndex) == "-1")
             {
-            postHREF = postsHREF[randomIndex];
-            console.log(postsHREF)
+                postHref = postsHref[randomIndex];
                 randomIndexUsed.push(randomIndex);
-            counter++;
-            return postHREF
+                counter++;
+                return postHref;
             }
         }
     } 
-    window.location.assign(nextPost().substr(1));
+    window.location.assign(nextPost(window.location.hash.substr(1)).substr(1)+window.location.hash);
 </script>
 </head>
