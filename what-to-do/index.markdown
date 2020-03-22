@@ -34,7 +34,7 @@ function getChallenge()
 {
   var e = document.getElementById("age");
   var strUser = e.options[e.selectedIndex].value;
-  var url = "what-to-do.github.io/"+getUrl();
+  var url = "/what-to-do.github.io"+getUrl();
   console.log(url);
   window.location.assign(url);
 }
