@@ -24,4 +24,4 @@ Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch hera
 
 ![Plank](https://image.freepik.com/fotos-kostenlos/mann-der-plankenuebung-tut_23-2147775982.jpg)
  
-Bild: freepik, Freepik-Lizenz, [Freepik](https://de.freepik.com/fotos-kostenlos/mann-der-plankenuebung-tut_2020967.htm#page=1&query=sport%20plank&position=6) {21.03.2020}
+Bild: freepik, Freepik-Lizenz, [Freepik](https://de.freepik.com/fotos-kostenlos/mann-der-plankenuebung-tut_2020967.htm#page=1&query=sport%20plank&position=6), Datum: 21.03.2020
