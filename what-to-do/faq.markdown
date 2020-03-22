@@ -29,3 +29,7 @@ Der Mensch braucht in Abwechslung, Bewegung, Beschäftigung. In Isolation oder Q
 Was es noch schlimmer mach: Man gerät in eine Abwärtsspirale der Inaktivität, die einen immer motivationloser macht selbst kreativ zu werden. Challenges, wie sie hier zu finden sind, helfen, das zu überwinden und Aktivitäten zu finden, die den Geist und Körper wieder in Schwung bringen.
 
 Weitere psychologische Hinweise gibt es [hier](http://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5494).
+
+## Kann ich eigene Challenges einreichen?
+Dieses Feature ist bisher nicht in die Website integriert, allerdings kannst du uns eine [Mail](whattodo@yqty.de) oder auf [Twitter](https://twitter.com/what_two_do) schreiben.
+Dann kann deine Idee reviewed und gegebenenfalls eingefügt werden.
