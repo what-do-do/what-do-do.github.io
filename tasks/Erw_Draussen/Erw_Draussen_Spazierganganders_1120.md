@@ -1,6 +1,6 @@
 **Spaziergang mal anders!**
 
-So lang dauert's: 30-90 Minuten
+So lang dauert's: 30 - 90 Minuten
 
 Das brauchst du: nur dich
 
