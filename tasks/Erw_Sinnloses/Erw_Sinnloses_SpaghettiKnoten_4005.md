@@ -1,6 +1,6 @@
 **Knote Spaghetti in deinem Mund**
 
-So lang dauert's: 1-30 Minuten 
+So lang dauert's: 1 - 30 Minuten 
 
 Das brauchst du: Eine Spaghetti
 
