@@ -65,9 +65,6 @@ layout: default
             }
         }
     } 
-    let root; 
-    if(window.location.host.includes("localhost")) root =  "/";
-    else root = "/what-to-do/";
-    window.location.assign(root+nextPost(window.location.hash.substr(1)).substr(1)+window.location.hash);
+    window.location.assign("/"+nextPost(window.location.hash.substr(1)).substr(1)+window.location.hash);
 </script>
 </head>
