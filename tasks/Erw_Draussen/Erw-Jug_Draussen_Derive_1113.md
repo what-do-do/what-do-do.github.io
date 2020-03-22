@@ -10,4 +10,4 @@ So geht's: Lade dir die App unter diesem [Link](http://deriveapp.com/s/v2/) heru
 
 ![Umweg](https://image.freepik.com/vektoren-kostenlos/map-light-konzept-illustration_114360-192.jpg)
 
-Bild: freepik, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/map-light-konzept-illustration_5357380.htm#page=1&query=tour&position=10), Datum: 22.03.2020
+Bild: stories, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/map-light-konzept-illustration_5357380.htm#page=1&query=tour&position=10), Datum: 22.03.2020
