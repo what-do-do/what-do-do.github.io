@@ -10,6 +10,6 @@ Das brauchst du: Dich und die Folgende Liste von Inhaltsstoffen:
 * Nylon-12
 * Acylates Copolymer
 
-So geht´s: Übergrüfe auf all deinen Pflegeprodukten, ob du diese Inhaltsstoffe entdecken kannst.
+So geht´s: Überprüfe auf alle deine Pflegeprodukte, ob du diese Inhaltsstoffe entdecken kannst.
 
-Für deine Gesundheit und den Planete wäre es besser wenn du diese Produkte nächstes mal im Regal stehen lässt.
+Für deine Gesundheit und den Planeten wäre es besser, wenn du diese Produkte das nächste Mal im Regal stehen lässt.
