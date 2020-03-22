@@ -26,7 +26,7 @@ Deine Frage ist (noch) nicht dabei? Dann scheue dich nicht uns per [Mail](whatto
 
 ##  1. <a name='WasbedeutetFlatCurvler'></a>Was bedeutet *Flat Curvler*?
 Eine Aussage, die zur Zeit in aller Munde ist lautet *Flatten the curve*, also flache die Kurve ab.
-Die Kurve beschreibt dabei die Anzahl der mit [SARS-CoV-2](https://de.wikipedia.org/wiki/SARS-CoV-2) infizierten Menschen.
+Die Kurve beschreibt dabei die Anzahl der mit [COVID-19](https://de.wikipedia.org/wiki/COVID-19) infizierten Menschen.
 
 Weil das Gesundheitssystem allerdings nur gewisse Kapazitäten hat ist es wichtig, die Verbreitung zu Verlangsamen und die Zahl der Infizierten zu reduzieren.
 
