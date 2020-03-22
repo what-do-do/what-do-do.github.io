@@ -1,6 +1,6 @@
 **Scherben bringen Glück**
 
-So lang dauert's: 10-60 Minuten
+So lang dauert's: 10 - 60 Minuten
 
 Das brauchst du: eine Schachtel und eventuell Handschuhe
 
