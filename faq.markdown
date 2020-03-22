@@ -13,10 +13,10 @@ Deine Frage ist (noch) nicht dabei? Dann scheue dich nicht uns per [Mail](whatto
 
 ##  <a name='Inhalt'></a>Inhalt 
 <!-- vscode-markdown-toc -->
-* 1. [Was bedeutet *Flat Curvler*?](#WasbedeutetFlatCurvler)
-* 2. [Warum brauche ich Challenges?](#WarumbraucheichChallenges)
-* 3. [Kann ich eigene Challenges einreichen?](#KannicheigeneChallengeseinreichen)
-* 4. [Ich bekomme immer wieder die gleiche Challenge, mache ich etwas falsch?](#IchbekommeimmerwiederdiegleicheChallengemacheichetwasfalsch)
+1. [Was bedeutet *Flat Curvler*?](#WasbedeutetFlatCurvler)
+2. [Warum brauche ich Challenges?](#WarumbraucheichChallenges)
+3. [Kann ich eigene Challenges einreichen?](#KannicheigeneChallengeseinreichen)
+4. [Ich bekomme immer wieder die gleiche Challenge, mache ich etwas falsch?](#IchbekommeimmerwiederdiegleicheChallengemacheichetwasfalsch)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
