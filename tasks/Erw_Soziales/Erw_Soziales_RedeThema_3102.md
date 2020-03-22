@@ -5,7 +5,7 @@ So lang dauert´s: 5 Minuten
 Das brauchst du:  Ein Telefon oder ein Handy
 
 So geht´s: Sieh in dein Telefon und rufe die dritte Person aus deinem Telefon- oder Whatsappverlauf an.
-Das Thema eures Gesprächs soll sein: *Wie züchtet man am besten eine Avocado*.
+Das Thema eures Gesprächs soll sein: *Wie züchtet man am besten eine Avocado?*
 
 ![Avocado](https://image.freepik.com/fotos-kostenlos/avocado-auf-einem-dunklen-holz-hintergrund_1205-769.jpg?1)
 
