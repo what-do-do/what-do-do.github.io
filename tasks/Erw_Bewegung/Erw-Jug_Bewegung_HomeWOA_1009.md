@@ -8,7 +8,7 @@ So geht´s:
   1. Begib dich in die Ausgangsposition: 
   
   *  Stell dich schulterbreit hin
-  *  Knie und Zehnspitzen zeigen in dieselbe Richtung
+  *  Knie und Zehenspitzen zeigen in dieselbe Richtung
   *  Nimm deine Arme vor dem Körper zusammen
   *  Beuge deinen Oberkörper etwas nach vorne
   
@@ -19,7 +19,7 @@ So geht´s:
   4. Drücke dich über die Fersen wieder hoch in die Ausgangsposition
     
 
-Abhängig von deiner momentanen Fitness solltest du dir selbst überlegen wie viele Wiederholungen du durchführst. 
+Abhängig von deiner momentanen Fitness solltest du dir selbst überlegen, wie viele Wiederholungen du durchführst. 
 
 Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch heraus.
 
