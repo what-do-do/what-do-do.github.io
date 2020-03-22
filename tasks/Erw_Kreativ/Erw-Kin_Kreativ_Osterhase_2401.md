@@ -1,4 +1,4 @@
-**Osterhasen Deko für zuhause**
+**Oster Deko für Zuhause**
 
 So lang dauert’s: 10 Minuten
 
