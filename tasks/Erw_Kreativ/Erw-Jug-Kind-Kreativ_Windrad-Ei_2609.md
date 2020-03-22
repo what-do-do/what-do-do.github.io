@@ -1,8 +1,8 @@
 **Windrad-Ei - Zero Waste**
 
-schneide aus alten Zeitungen, Verpackungsmaterialien Ellipsen aus
+Schneide aus alten Zeitungen, Verpackungsmaterialien Ellipsen aus
 
-lege sie aufeinander und nähe sie in der Mitte in einer Linie von oben nach unten zusammen
+Lege sie aufeinander und nähe sie in der Mitte in einer Linie von oben nach unten zusammen
 
 falte die einzelnen Schichten auseinander, so dass sich ein Ei ergibt
 
