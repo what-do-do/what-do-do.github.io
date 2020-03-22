@@ -1,10 +1,10 @@
 **Treppensteigen wie ein Weltmeister**
 
-So lang dauert´s: 5 Minuten
+So lang dauert's: 5 Minuten
 
 Das braust Du: Dich und sonst nix
 
-So geht´s: Gehe alle Treppen, die du im Haus und auch in deiner Umgebung hast, einmal hoch und wieder herunter. Zähle dabei mit, wie viele Treppen du gestiegen bist.
+So geht's: Gehe alle Treppen, die du im Haus und auch in deiner Umgebung hast, einmal hoch und wieder herunter. Zähle dabei mit, wie viele Treppen du gestiegen bist.
 
 ![Stairs](https://image.freepik.com/fotos-kostenlos/herausforderungen-meistern_158595-4654.jpg)
 
