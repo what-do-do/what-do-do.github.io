@@ -8,4 +8,4 @@ Elfchen Gedichte haben ein leicht erklärte Versform. 11 Worte – 5 Zeilen
 5. Zeile 1 Wort –  z.B. „mitdenken“
 
 ![Wort](https://cdn.pixabay.com/photo/2015/09/09/20/50/writing-933262_1280.jpg)
-Bild:tookapic, Pixabay License[https://pixabay.com/de/photos/schreiben-notizen-stift-hand-933262/]{22.03.2020}
+Bild: tookapic, Pixabay License, [Pixaby](https://pixabay.com/de/photos/schreiben-notizen-stift-hand-933262/)Pixaby [https://pixabay.com/de/photos/schreiben-notizen-stift-hand-933262/], Datum: 22.03.2020
