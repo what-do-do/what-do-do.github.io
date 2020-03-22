@@ -1,6 +1,6 @@
 **Horoskop selbst gemacht!**
 
-So lang dauert's: 10-60 Minuten
+So lang dauert's: 10 - 60 Minuten
 
 Das brauchst du: einen klaren Himmel bei Nacht
 
