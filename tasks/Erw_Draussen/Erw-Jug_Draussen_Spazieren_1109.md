@@ -1,6 +1,6 @@
 **Der Weg ist das Ziel!**
 
-So lang dauert's: 10-60 Minuten
+So lang dauert's: 10 - 60 Minuten
 
 Das brauchst du: nur dich
 
