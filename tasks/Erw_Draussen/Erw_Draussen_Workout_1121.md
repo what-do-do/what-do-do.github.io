@@ -11,3 +11,6 @@ So geht’s: Schnapp dir deine Sportschuhe, vielleicht eine Matte und suche dir 
 [Ab zu 7!!](https://play.google.com/store/apps/details?id=com.popularapp.sevenmins&hl=de)
 
 [Ab zum Yoga!!](https://play.google.com/store/apps/details?id=com.dailyyoga.inc&hl=de)
+
+![Yoga](https://image.freepik.com/vektoren-kostenlos/yoga-ikonen-sammlung_1251-3.jpg)
+Bild: dreamwaves, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/yoga-ikonen-sammlung_971845.htm#page=1&query=yoga&position=16)
