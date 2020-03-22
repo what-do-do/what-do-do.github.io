@@ -32,7 +32,7 @@ Weil das Gesundheitssystem allerdings nur gewisse Kapazitäten hat ist es wichti
 
 Wie? Mit Social Distancing. Also \#StayAtHome, stecke niemanden an und lass dich selbst nicht anstecken und nutze unsere Challenges, um dir die Zeit zu vertreiben! Hilf, die Kurve abzuflachen.
 
-![Eine verzögerte und flache Kurve, um das Gesundheitssystem nicht zu überlasten](./img/flatten-the-curve.jpg "https://mymodernmet.com/wp/wp-content/uploads/2020/03/flatten-the-curve-thumbnail-1.jpg")
+![Eine verzögerte und flache Kurve, um das Gesundheitssystem nicht zu überlasten](./img/flatten-the-curve.jpg) Quelle: "https://mymodernmet.com/"
 
 ##  2. <a name='WarumbraucheichChallenges'></a>Warum brauche ich Challenges?
 Der Mensch braucht in Abwechslung, Bewegung, Beschäftigung. In Isolation oder Quarantäne ist das schwer umzusetzen. Die Folge: Lagerkoller.
