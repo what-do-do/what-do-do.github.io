@@ -21,7 +21,7 @@ So geht´s:
 
 Abhängig von deiner momentanen Fitness solltest du dir selbst überlegen wie viele Wiederholungen du durchführst. 
 
-Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch herraus.
+Denk aber daran: Sport soll anstrengend sein, also fordere dich selbst auch heraus.
 
 
 ![Kniebeuge](https://image.freepik.com/fotos-kostenlos/exemplarplatzfrau-die-uebungen-tut_23-2148435355.jpg)
