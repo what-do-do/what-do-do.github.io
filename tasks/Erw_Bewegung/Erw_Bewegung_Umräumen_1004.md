@@ -1,10 +1,10 @@
 **Eintönig = Langweilig : Eine Änderung der Einrichtung wirkt Wunder**
 
-So lang dauert´s: 30 Minuten
+So lang dauert's: 30 Minuten
 
 Das brauchts Du: Dich, deinen kreativen Kopf und ein bisschen Muskelkraft
 
-So geht´s: Stelle in einem Zimmer deiner Wahl deine Möbel nach Lust und Laune um. Und wenn es dir doch nicht gefällt, stelle sie einfach wieder wo anders hin.
+So geht's: Stelle in einem Zimmer deiner Wahl deine Möbel nach Lust und Laune um. Und wenn es dir doch nicht gefällt, stelle sie einfach wieder wo anders hin.
 
 ![Möbel](https://image.freepik.com/vektoren-kostenlos/modernes-wohnzimmer-innenarchitektur-mit-flachem-design_23-2147909131.jpg)
 
