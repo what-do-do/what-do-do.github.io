@@ -1,4 +1,4 @@
-**Ab aufs Podium!** 
+**Ab ans Rednerpult!** 
 
 So lang dauert´s: 2 Minuten
 
