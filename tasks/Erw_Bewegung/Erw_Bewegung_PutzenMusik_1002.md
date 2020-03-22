@@ -1,4 +1,4 @@
-**Party Putzen ist angesagt!**
+**Party-Putzen ist angesagt!**
 
 So lang dauert´s: 15 Minuten
 
