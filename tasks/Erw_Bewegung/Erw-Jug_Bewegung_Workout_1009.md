@@ -1,6 +1,6 @@
 **Kurzes Workout für Zuhause: Kniebeugen**
 
-So lang dauert´s: 10 Minuten
+So lang dauert's: 10 Minuten
 
 Das brauchst du: Dich und sonst nix
 
