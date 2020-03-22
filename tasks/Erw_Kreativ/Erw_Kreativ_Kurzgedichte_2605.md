@@ -1,5 +1,13 @@
-Wortspiel "Elfchen"
-Elfchen Gedichte haben ein leicht erklärte Versform. 11 Worte – 5 Zeilen
+**Wortspiel - Elfchen**
+
+So lang dauert's: 5-10 Minuten
+
+"Elfchen" sind Kurzgedichte
+
+11 Worte – 5 Zeilen
+
+Beginne in Zeile 1 mit einem Wort, in Zeile 2 schreibe 2 Worte, in Zeile drei 3 Worte, in Zeile 4 Worte und in Zeile fünf ein Wort.
+Genieße das kurze Gedicht, dass Du erfunden hast.
 
 1. Zeile 1 Wort –  z.B.	“Vermehrung“
 2. Zeile 2 Worte – z.B. „Veränderungen im“
