@@ -6,3 +6,6 @@ Das brauchst du: eine Handy oder Tablet und die Quizzduell App.
 
 So geht´s: Lade dir die Quizzduell App herrunter. Wenn du sie dann hast melde dich an (geht auch mit phantasie Namen) und schon kannst du loslegen.
 Starte ein Duell mit einem Freund oder einer Freundin oder einem völlig Fremden und stelle deine Wissen in vielen unterschiedlichen Bereichen auf die Probe.
+
+![Quiz](https://image.freepik.com/vektoren-kostenlos/purpurroter-hintergrund-mit-quizwort-und-bunten-leuten_52683-126.jpg)
+Bild: pikisuperstar, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/purpurroter-hintergrund-mit-quizwort-und-bunten-leuten_2795614.htm#query=Quiz&position=2)
