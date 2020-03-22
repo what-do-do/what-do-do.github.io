@@ -8,7 +8,7 @@ So geht´s: Eine Rede, eine Rede! Eine Stegreifrede wird spontan und weitestgehe
 Das Üben Zuhause kann dabei helfen, die eigenen Gedanken in Stresssituationen schnell zu ordnen und allgemein freier zu sprechen. 
 Du hast zwei Minuten Zeit. Dein Publikum siehst du auf dem Foto unten, überzeuge sie von deiner Meinung zum Thema:
 
-Esst mehr Avocados!
+Esst mehr Melonen!
 
 Tipp: Ein guter Anfang ist immer eine kurze Erläuterung, warum dir das Thema besonders am Herzen liegt. 
 
