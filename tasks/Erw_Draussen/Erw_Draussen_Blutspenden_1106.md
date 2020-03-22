@@ -9,4 +9,5 @@ So geht’s: Informiere dich, wo die nächste Station zum Blutspenden in deiner 
 
 Mach dich auf den Weg und tu etwas Gutes.
 ![Blut](https://cdn.pixabay.com/photo/2019/04/29/16/56/blood-donation-4166552_1280.jpg)
-Bild: kalhh, Pixabay License [https://pixabay.com/illustrations/blood-donation-blood-donations-blood-4166552/]{22.03.2020}
+
+Bild: kalhh, Pixabay License, [Pixabay](https://pixabay.com/illustrations/blood-donation-blood-donations-blood-4166552), Datum: 22.03.2020
