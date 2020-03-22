@@ -9,3 +9,6 @@ Lasst eurer Kreativität freien Lauf und bindet eure Umgebung in die neue Murmel
 
 Jetzt könnt ihr die ersten Test starten und Murmelwettrennen mit der ganzen Familie veranstalten.
 Solltet ihr noch keine Ideen haben, Inspiration gibt es zu Genüge auf [Youtube](https://www.youtube.com/watch?v=R48BGaVMBUU).
+
+![Murmeln](https://image.freepik.com/fotos-kostenlos/viele-bunten-transparenten-marmore-auf-weissem-hintergrund_23-2147873806.jpg)
+Bild: freepik, Freepi-Lizenz, [Freepik](https://de.freepik.com/fotos-kostenlos/viele-bunten-transparenten-marmore-auf-weissem-hintergrund_2751320.htm#query=Murmeln&position=1)
