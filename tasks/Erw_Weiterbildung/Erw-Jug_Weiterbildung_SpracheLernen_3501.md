@@ -25,5 +25,5 @@ So geht's: Es gibt viele Wege, eine Sprache zu lernen. Einer davon ist sehr unte
 
 ![image alt](https://cdn.pixabay.com/photo/2016/11/29/07/29/art-1868101_1280.jpg)
 
-*Bild: Pexels, Pixabay Licence, [Pixabay](https://pixabay.com/photos/art-business-calligraphy-1868101/), Datum: 21.03.2020*
+Bild: Pexels, Pixabay Licence, [Pixabay](https://pixabay.com/photos/art-business-calligraphy-1868101/), Datum: 21.03.2020
 
