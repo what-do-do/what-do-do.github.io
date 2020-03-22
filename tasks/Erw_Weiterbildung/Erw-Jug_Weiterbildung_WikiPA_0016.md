@@ -10,4 +10,4 @@ Etwas lesen was nicht zu seinen sonstigen Interessen gehört ist sehr gut für d
 
 ![Olympia](https://image.freepik.com/fotos-kostenlos/olympia-flagge_1401-283.jpg)
 
-Bild: www.slon.pics, Freepik-Lizent, [Freepi](https://de.freepik.com/fotos-kostenlos/olympia-flagge_1179722.htm#query=Olympia&position=0), Datum: 22.03.2020
+Bild: www.slon.pics, Freepik-Lizent, [Freepik](https://de.freepik.com/fotos-kostenlos/olympia-flagge_1179722.htm#query=Olympia&position=0), Datum: 22.03.2020
