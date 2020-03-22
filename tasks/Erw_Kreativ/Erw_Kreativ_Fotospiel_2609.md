@@ -4,8 +4,7 @@ So lang dauert´s: 20-30 Minuten
 
 Das brauchst du: Tasse und Stift
 
-So geht´s:  Nimm eine Tasse, male auf den Boden außen ein Gesicht mit Augen, Nase und Mund. Male auf die äußere Seitenwand zwei Hasenohren.
-Trinke und lass dich fotografieren, wie der Tassenboden ein Teil deines Gesichtes verdeckt, stattdessen das Gesicht des Tassenbodens zu sehen ist. Verschicke das Foto mit einem Gruß.
+So geht´s:  Schnapp die eine Tasse und male auf den Boden außen ein Gesicht mit Augen, Nase und Mund. Ergänze auf der äußeren Seitenwand zwei Hasenohren. Trinke und lass dich fotografieren, wie der Tassenboden ein Teil deines Gesichtes verdeckt, stattdessen das Gesicht des Tassenbodens zu sehen ist (oder du machst es im Spiegel). Verschicke das Foto mit einem netten Gruß.
 
 Stell Dir bei diesem Bild die Bemalung vor und probiere es aus.
 
