@@ -1,6 +1,6 @@
 **Malen nach Schritten!**
 
-So lange dauert's: 10-60 min
+So lange dauert's: 10-60 Minuten
 
 Das brauchst du: ein GPS zum Tracken
 
