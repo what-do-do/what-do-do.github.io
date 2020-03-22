@@ -11,4 +11,5 @@ Ansonsten suche nach etwas, das du schon längst wissen wolltest.
 Weißt du beispielsweise, wie eine Ananas wächst? Die Antwort findest du [hier](https://de.wikipedia.org/wiki/Ananas)
 
 ![Bild](https://image.freepik.com/fotos-kostenlos/ananasfrucht_1203-7746.jpg)
-Bild: mrsiraphol, Freepik-Lizenz, [Freepik](https://de.freepik.com/fotos-kostenlos/ananasfrucht_1123681.htm#page=1&query=ananas&position=0)
+Bild: mrsiraphol, Freepik-Lizenz, [Freepik](https://de.freepik.com/fotos-kostenlos/ananasfrucht_1123681.htm#page=1&query=ananas&position=0), Datum: 22.03.2020
+
