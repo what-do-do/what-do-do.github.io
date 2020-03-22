@@ -2,7 +2,7 @@
 
 So lang dauert's: 10 - 60 Minuten
 
-Das brauchst du: nur dich
+Das brauchst du: Nur dich
 
 So geht's: Spaziere die Straße auf und ab. Auf und ab - immer weiter.
 
