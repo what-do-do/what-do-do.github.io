@@ -65,6 +65,9 @@ layout: default
             }
         }
     } 
-    window.location.assign('../'+nextPost(window.location.hash.substr(1)).substr(1)+window.location.hash);
+    let root; 
+    if(window.location.host.includes("localhost")) root =  "/";
+    else root = "/what-to-do.github.io/";
+    window.location.assign(root+nextPost(window.location.hash.substr(1)).substr(1)+window.location.hash);
 </script>
 </head>
