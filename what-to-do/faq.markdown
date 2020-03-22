@@ -10,10 +10,21 @@ Hier findest du eine Sammlung der am häufigsten auftretenden Fragen.
 
 Deine Frage ist (noch) nicht dabei? Dann scheue dich nicht uns per [Mail](whattodo@yqty.de) oder auf [Twitter](https://twitter.com/what_two_do) zu kontaktieren!
 
-## Inhalt 
-Hier am Ende noch ein Inhaltsverzeichnis einfügen
 
-## Was bedeutet *Flat Curvler*?
+##  <a name='Inhalt'></a>Inhalt 
+<!-- vscode-markdown-toc -->
+* 1. [Was bedeutet *Flat Curvler*?](#WasbedeutetFlatCurvler)
+* 2. [Warum brauche ich Challenges?](#WarumbraucheichChallenges)
+* 3. [Kann ich eigene Challenges einreichen?](#KannicheigeneChallengeseinreichen)
+* 4. [Ich bekomme immer wieder die gleiche Challenge, mache ich etwas falsch?](#IchbekommeimmerwiederdiegleicheChallengemacheichetwasfalsch)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
+##  1. <a name='WasbedeutetFlatCurvler'></a>Was bedeutet *Flat Curvler*?
 Eine Aussage, die zur Zeit in aller Munde ist lautet *Flatten the curve*, also flache die Kurve ab.
 Die Kurve beschreibt dabei die Anzahl der mit [SARS-CoV-2](https://de.wikipedia.org/wiki/SARS-CoV-2) infizierten Menschen.
 
@@ -23,16 +34,16 @@ Wie? Mit Social Distancing. Also \#StayAtHome, stecke niemanden an und lass dich
 
 ![Eine verzögerte und flache Kurve, um das Gesundheitssystem nicht zu überlasten](./img/flatten-the-curve.jpg "https://mymodernmet.com/wp/wp-content/uploads/2020/03/flatten-the-curve-thumbnail-1.jpg")
 
-## Warum brauche ich Challenges?
+##  2. <a name='WarumbraucheichChallenges'></a>Warum brauche ich Challenges?
 Der Mensch braucht in Abwechslung, Bewegung, Beschäftigung. In Isolation oder Quarantäne ist das schwer umzusetzen. Die Folge: Lagerkoller.
 
 Was es noch schlimmer mach: Man gerät in eine Abwärtsspirale der Inaktivität, die einen immer motivationloser macht selbst kreativ zu werden. Challenges, wie sie hier zu finden sind, helfen, das zu überwinden und Aktivitäten zu finden, die den Geist und Körper wieder in Schwung bringen.
 
 Weitere psychologische Hinweise gibt es [hier](http://www.bundesheer.at/archiv/a2020/corona/artikel.php?id=5494).
 
-## Kann ich eigene Challenges einreichen?
+##  3. <a name='KannicheigeneChallengeseinreichen'></a>Kann ich eigene Challenges einreichen?
 Dieses Feature ist bisher nicht in die Website integriert, allerdings kannst du uns eine [Mail](whattodo@yqty.de) oder auf [Twitter](https://twitter.com/what_two_do) schreiben.
 Dann kann deine Idee reviewed und gegebenenfalls eingefügt werden.
 
-## Ich bekomme immer wieder die gleiche Challenge, mache ich etwas falsch?
+##  4. <a name='IchbekommeimmerwiederdiegleicheChallengemacheichetwasfalsch'></a>Ich bekomme immer wieder die gleiche Challenge, mache ich etwas falsch?
 Die Challenge, die dir gezeigt wird jedes mal zufällig aus dem gesamten Pool von Challenges der gewählten Kategorie ausgewählt. Auch wenn es sehr unwahrscheinlich ist, kann es dabei passieren, dass die gleiche Challenge wieder auftritt. Probiere es einfach nocheinmal!
