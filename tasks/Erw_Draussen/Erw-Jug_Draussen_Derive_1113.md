@@ -1,6 +1,6 @@
 **Abkürzung, Umweg oder Sackgasse?**
 
-So lang dauert's: 30-90 Minuten
+So lang dauert's: 30 - 90 Minuten
 
 Das brauchst du: Dich und die derive-App
 
