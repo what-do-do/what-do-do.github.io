@@ -11,3 +11,7 @@ So gehts:
 4. Füge dem auf lauwarme Temperatur abgekühlten Wasser-Stärke-Gemisch 1-2 Teelöffel Natron hinzu und verrühre es vollständig. 
 5. Wenn du magst, kannst du noch wenige Tropfen ätherische Öle hinzugeben.
 6. Fülle alles in einen leeren Deoroller.
+
+![Herbs](https://image.freepik.com/fotos-kostenlos/aetherische-oele-und-blume-auf-normalem-hintergrund_23-2148241923.jpg)
+
+Bild: freepik, Freepik-Lizenz, [Freepik](https://de.freepik.com/fotos-kostenlos/aetherische-oele-und-blume-auf-normalem-hintergrund_5291177.htm#page=1&query=ätherische%20Öle&position=20), Datum: 22.03.2020
