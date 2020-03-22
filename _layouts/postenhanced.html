@@ -2,19 +2,11 @@
 layout: post
 title: Test
 ---
-
-<head>
-  <script>
-      let router;
-      if(window.location.host.includes("localhost")) router =  "/router.html";
-      else router = "/what-to-do/router.html"
-  </script>
-</head>
-<p><button type="button" class="block" onCLick="window.location.assign(router + window.location.hash)">Next</button></p>
+<p><button type="button" class="block" onCLick="window.location.assign("/router.html" + window.location.hash)">Next</button></p>
 
 {{ content }}
 
-<p><button type="button" class="block" onCLick="window.location.assign(router + window.location.hash)">Next</button></p>
+<p><button type="button" class="block" onCLick="window.location.assign("/router.html" + window.location.hash)">Next</button></p>
 
 <style>
 .block {
