@@ -4,7 +4,7 @@ So lang dauert's: 10 - 60 Minuten
 
 Das brauchst du: Dich
 
-So geht's: Ab nach Draußen. Spaziere raus, einmal um den Block!
+So geht's: Ab nach draußen. Spaziere einmal um den Block!
 
 ![Block](https://image.freepik.com/fotos-kostenlos/sport-spazieren-morgens_1163-2914.jpg)
 
