@@ -11,8 +11,7 @@ So geht´s: Daten, die Du nicht mehr brauchst, löschen!
   1. Überlege, welche Datenpakete Du nicht mehr auf Deinem Server/Account haben willst: Was nicht ankommt, "kostet" auch kein C02. Beispiel: Newsletter und Push-Meldungen abbestellen, nicht nur wegklicken. Info: Eine E-Mail hat denselben Fußabdruck wie eine Plastiktüte (Umweltbundesamt) 
   
   1. Bleib im think digital green - Modus und finde nach und nach alle "überflüssigen" Daten. Klimaschutz geht auch digital! Lust auf vernetzen? Dann mach das Ganze mit einer anderen Person zusammen, gründe z. B. ein Meetup. Infos zum Loslegen: 
-  
-https://www.verbraucherservice-bayern.de/themen/umwelt/fasten-fuer-die-umwelt
+[Hier](https://www.verbraucherservice-bayern.de/themen/umwelt/fasten-fuer-die-umwelt) der Link
 
 Du tust nicht nur Gutes für deine digitalen Strukturen, sondern auch für die Umwelt.
 
