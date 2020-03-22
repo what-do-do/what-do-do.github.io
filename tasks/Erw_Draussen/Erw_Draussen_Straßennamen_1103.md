@@ -1,6 +1,6 @@
 **Wer war das denn nochmal?**
 
-So lang dauert's:	10-60 Minuten
+So lang dauert's:	10 - 60 Minuten
 
 Das brauchst du: dich selbst
 
