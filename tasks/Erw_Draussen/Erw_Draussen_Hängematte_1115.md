@@ -1,6 +1,6 @@
-**Einfach mal anhängen!**
+**Einfach mal abhängen!**
 
-So lang dauert's: 60-180min
+So lang dauert's: 60-180 Minuten
 
 Das brauchst du: eine Hängematte, Seile und ein Buch
 
