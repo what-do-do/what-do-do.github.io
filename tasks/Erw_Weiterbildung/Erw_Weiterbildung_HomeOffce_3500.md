@@ -17,4 +17,4 @@ Hilfreiche Tipps:
 
 ![image alt](https://cdn.pixabay.com/photo/2014/09/24/14/29/mac-459196_1280.jpg)
 
-*Bild: ID 377053, Pixabay Licence, [Pixabay](https://pixabay.com/photos/mac-freelancer-macintosh-macbook-459196/), Datum: 21.03.2020*
+Bild: ID 377053, Pixabay Licence, [Pixabay](https://pixabay.com/photos/mac-freelancer-macintosh-macbook-459196/), Datum: 21.03.2020
