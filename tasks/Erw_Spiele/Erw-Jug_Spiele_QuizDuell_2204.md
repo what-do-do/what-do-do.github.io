@@ -8,4 +8,5 @@ So geht´s: Lade dir die Quizduell App herunter. Melde dich an (geht auch mit Fa
 Starte ein Duell mit einem Freund, einer Freundin oder einem völlig Fremden und stelle dein Wissen in vielen unterschiedlichen Bereichen auf die Probe.
 
 ![Quiz](https://image.freepik.com/vektoren-kostenlos/purpurroter-hintergrund-mit-quizwort-und-bunten-leuten_52683-126.jpg)
-Bild: pikisuperstar, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/purpurroter-hintergrund-mit-quizwort-und-bunten-leuten_2795614.htm#query=Quiz&position=2)
+Bild: pikisuperstar, Freepik-Lizenz, [Freepik](https://de.freepik.com/vektoren-kostenlos/purpurroter-hintergrund-mit-quizwort-und-bunten-leuten_2795614.htm#query=Quiz&position=2), Datum: 22.03.2020
+
