@@ -56,7 +56,7 @@ layout: default
 
 ### Deine Challenge für die Zeit Zuhause
 
-Dies ist ein historischer Moment. Deine Chance ist gekommen, die ganze Welt zu verbesseren.
+Dies ist ein historischer Moment. Deine Chance ist gekommen, die ganze Welt zu verbessern.
 Alles, was du tun musst ist, daheim zu bleiben. Um dir diese Zeit etwas zu vereinfachen, haben wir ein
 paar interessante Challenges für dich zusammengestellt.
 
@@ -76,6 +76,6 @@ paar interessante Challenges für dich zusammengestellt.
     </select>
     <br>
     <br>
-    <p><button type="button" id="button1" onclick="getChallenge();">Zieg mir die Challenge</button></p>
+    <p><button type="button" id="button1" onclick="getChallenge();">Zeig mir die Challenge</button></p>
   </div>
 </div> 
