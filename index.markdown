@@ -65,7 +65,7 @@ paar interessante Challenges für dich zusammengestellt.
   <div class="wheel">
      <img src="https://imgur.com/download/Gicyf3F" alt="wheel"> 
   </div>
-  <div class="nexttowheel" style="position:absolute;left:650px; top:370px;">
+  <div class="nexttowheel">
     <label for="age">Wähle jetzt deine Kategorie:</label>
     <select id="age">
      <!-- <option value="Elt">Eltern</option> -->
