@@ -20,4 +20,4 @@ Solltest du vorhaben, deinen Entwurf digital zu entwerfen, probier es [hiermit](
 
 ![Traumhaus](https://cdn.pixabay.com/photo/2019/07/07/06/29/house-floorplan-4321812_960_720.jpg)
 
-*Bild: Pixabay (House-floorplan), [Quelle: Pixabay](https://cdn.pixabay.com/photo/2019/07/07/06/29/house-floorplan-4321812_960_720.jpg), Datum: 21.03.2020*
+Bild: Pixabay (House-floorplan), [Pixabay](https://cdn.pixabay.com/photo/2019/07/07/06/29/house-floorplan-4321812_960_720.jpg), Datum: 21.03.2020

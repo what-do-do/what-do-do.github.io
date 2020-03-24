@@ -12,6 +12,6 @@ So geht's: Video ansehen und nachmachen. *Clap, Clap, Ta-ble, Ta-ble, Clap Up Do
 
 ![image alt](https://cdn.pixabay.com/photo/2020/02/13/16/59/plastic-cup-4846296_1280.jpg)
 
-Bild: MabelAmber , Pixabay, Pixabay Licence, [Quelle](https://pixabay.com/photos/plastic-cup-drinking-picnic-party-4846296/), Datum: 21.03.2020
+Bild: MabelAmber, Pixabay, Pixabay Licence, [Quelle](https://pixabay.com/photos/plastic-cup-drinking-picnic-party-4846296/), Datum: 21.03.2020
 
 

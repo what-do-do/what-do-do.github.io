@@ -12,7 +12,7 @@ So geht's: Es gibt viele Wege, eine Sprache zu lernen. Einer davon ist sehr unte
 1. Falls Arthaus-Kino mit philosophischen Dialogen noch nicht ganz deinem Niveau entspricht, oder in deinem Lieblingsgenre sehr viel Slang verwendet wird, dann schau vielleicht erstmal einen Kinder- oder Jugendfilm. Die können auch unterhaltsam sein
 1. Es kann eventuell helfen einen Film zu schauen, den du schon kennst und den du gerne nochmal ansehen willst, dann bist du zu Beginn nicht so *lost*
 
-*Zu Easy? Dann gibt's noch eine Extra-Aufgabe:* 
+*Zu Easy? Dann gibt's noch eine Extra-Challenge:* 
 1. Mache eine Liste mit Dingen, die dir in dem Film gut/schlecht gefallen haben (in der Fremdsprache)
 1. Wurden Stereotypen im Film gezeigt oder gab es Klischees die bedient wurden? Mache eine Liste (in der Fremdsprache)
 1. Mache eine Liste mit Dingen, die du über das andere Land aus dem der Film kommt gelernt hast (in der Fremdsprache)

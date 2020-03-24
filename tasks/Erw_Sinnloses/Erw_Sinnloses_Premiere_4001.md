@@ -7,10 +7,10 @@ Das brauchst du: Einen Browser mit Internetzugang
 So geht's: Es gibt verschiedene Internetseiten, die dir Inhalte zusammenstellen, die auf YouTube teilweise noch niemand angesehen hat (noch nicht mal der Urheber). Jetzt bereit machen für die großen und kleinen Premieren des Internets. 
 *Hinweis: Auch wenn es bestimmte Filter bei YouTube gibt, die dies verhindern sollen, könnten einige Videos verstörende Bilder zeigen.* 
 
-Jetzt Premieren erleben! z.B. auf [Underviewed](http://underviewed.com)oder auf [PetitTube](https://www.petittube.com)
+Jetzt Premieren erleben! z.B. auf [Underviewed](http://underviewed.com) oder auf [PetitTube](https://www.petittube.com)
 
 ![image alt](https://live.staticflickr.com/53/155918164_58c2d349d6_k.jpg)
 
-Bild: Thomas Hawk (The Calm After the Show), Flickr, CC BY-NC 2.0, [Quelle](https://www.flickr.com/photos/thomashawk/155918164), Datum: 21.03.2020
+Bild: Thomas Hawk (The Calm After the Show), [Flickr](https://www.flickr.com/photos/thomashawk/155918164), Datum: 21.03.2020
 
 
